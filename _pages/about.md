@@ -138,15 +138,15 @@ redirect_from:
 <div class="paper-item"> <a href="#" style="margin-left: -5px;">Incremental over-the-air (OTA) updates for software-defined vehicles</a> </div>
 
 <em>My role: Project Leader</em>
-- Proposed a software OTA update framework for software-defined vehicles (SDVs), leveraging a robotic vehicle and an industry-grade roadside unit (RSU)
-- Developed RSU- and vehicle-side mechanisms to support incremental updates, enhancing efficiency in software version management
-- Assessed the performance of Cellular Vehicle-to-Everything (C-V2X) technology, combining V2X and 5G, along with Wi-Fi communication for efficient OTA transmission.
+- Propose a software OTA update framework for software-defined vehicles (SDVs), leveraging a robotic vehicle and an industry-grade roadside unit (RSU)
+- Develop RSU- and vehicle-side mechanisms to support incremental updates, enhancing efficiency in software version management
+- Assess the performance of Cellular Vehicle-to-Everything (C-V2X) technology, combining V2X and 5G, along with Wi-Fi communication for efficient OTA transmission.
 </div>
 </div>
 
 
 <!-- SEC-VEC-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SEC 2024</div><img src='proj_img/SEC-hardware.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 Spring</div><img src='proj_img/SEC-hardware.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-item"> <a href="pdf/SEC24-VEC.pdf" style="margin-left: -5px;">An Efficient Data Transmission Framework for Connected Vehicles</a> </div>
@@ -158,8 +158,20 @@ redirect_from:
 </div>
 </div>
 
+<!-- MOST-Raindrop-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 Fall</div><img src='proj_img/rain_frame.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class="paper-item"> <a href="pdf/MOST24-Raindrop.pdf" style="margin-left: -5px;">Impact of Raindrops on Camera-Based Detection in Software-Defined Vehicles</a> </div>
+
+<em>My role: Project Leader</em>
+- Conduct a comprehensive qualitative analysis of raindrops during daytime and nighttime.
+- Design a quantitative analysis to assess the diverse influences of raindrops.
+- Develop and propose two innovative methods to effectively eliminate the detrimental influence of raindrops, enhancing the robustness and reliability of the system.
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

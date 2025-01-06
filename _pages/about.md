@@ -27,13 +27,14 @@ redirect_from:
     for connected and intelligent vehicles, leveraging cutting-edge technologies to enhance performance and safety.
 </p>
 
+<div><hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;"></div>
 
 
 
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">🔥 News</span>
 <p style="font-family: Arial, sans-serif;">- 2024: NSF ACM/IEEE Symposium on Edge Computing (SEC) Student Travel Grant. &nbsp;🎉 </p>
 <p style="font-family: Arial, sans-serif;">- 2024: International Student Opportunity Scholarship at William & Mary. &nbsp;🎉</p>
-
+<div><hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;"></div>
 
 
 <br>
@@ -42,10 +43,13 @@ redirect_from:
 
 <div class="paper-list"> <div class="paper-item">
     <!-- 日期部分 -->
-    <div class="date"> <h5>2024</h5> </div></div>d
+    <div class="date"> <h5>2024</h5></div> 
+    <a href="./pdf/SEC24-VEC.pdf">An Efficient Data Transmission Framework for Connected Vehicles</a>
+    <b>Yichen Luo</b>, Yongtao Yao, Junzhou Chen, Sidi Lu, and Weisong Shi.<br>
+    The 9th ACM/IEEE Symposium on Edge Computing (SEC), Rome, Italy.</div>
 
 
-   <div class="paper-item"> <div class="date"> <h5>2023</h5> </div></div>
+   <div class="paper-item"> <div class="date"> <h5>2023</h5></div>  </div>
 </div>
 
 

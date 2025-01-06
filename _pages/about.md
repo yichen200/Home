@@ -135,10 +135,10 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Currently</div><img src='proj_img/SEC-hardware.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<div class="paper-item"> <a href=# style="margin-left: -5px;">Incremental over-the-air (OTA) updates for software-defined vehicles</a> </div>
+<div class="paper-item"> <a href="#" style="margin-left: -5px;">Incremental over-the-air (OTA) updates for software-defined vehicles</a> </div>
 
 <em>My role: Project Leader</em>
-- Proposed a software over-the-air (OTA) update framework for software-defined vehicles (SDVs), leveraging a robotic vehicle and an industry-grade roadside unit (RSU)
+- Proposed a software OTA update framework for software-defined vehicles (SDVs), leveraging a robotic vehicle and an industry-grade roadside unit (RSU)
 - Developed RSU- and vehicle-side mechanisms to support incremental updates, enhancing efficiency in software version management
 - Assessed the performance of Cellular Vehicle-to-Everything (C-V2X) technology, combining V2X and 5G, along with Wi-Fi communication for efficient OTA transmission.
 </div>

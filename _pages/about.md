@@ -129,17 +129,14 @@ redirect_from:
 
 
 <br>
-# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">📚 Project</span>
+# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">📚 Research Project</span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SEC 2024</div><img src='proj_img/SEC-hardware.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="pdf/SEC24-VEC.pdf">An Efficient Data Transmission Framework for Connected Vehicles</a>
 
-
-[**Research Projects**]
 - Two Reinforcement Learning (RL) Policies: We design two vehicle-based RL policies (tracking-driven and similarity-driven) on vehicles to dynamically TCS based on real-time driving conditions.
 - Vehicle-EdgeServer-Cloud (VEC) Closed-Loop Framework: This framework integrates adaptive compression mechanisms to streamline information flow: vehicles perform real-time object detection on compressed data, EdgeServers reconstruct scenes as needed, and the cloud aggregates results for continuous model updates across the network.
-- Testing on industry-grade hardware to ensure real-world performance and reliability.
 </div>
 </div>
 

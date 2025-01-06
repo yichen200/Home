@@ -43,25 +43,25 @@
 .paper-box {
     display: flex;
     justify-content: left;
-    align-items: stretch; /* 让子元素高度一致 */
+    align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0;
-    font-family: Arial, sans-serif; /* 设置整体字体为 Arial */
+    font-family: Arial, sans-serif; /* 全局设置字体为 Arial */
 
     .paper-box-image {
         justify-content: center;
         display: flex;
         width: 100%;
-        height: auto; /* 默认高度 */
+        height: auto; /* 设置高度自适应 */
         order: 2;
 
         img {
             max-width: 400px;
             max-height: 100%; /* 确保图片不会超出容器 */
             width: 100%; /* 保持图片宽度自适应 */
-            height: 100%; /* 填充父容器高度 */
+            height: auto; /* 保持图片高度比例 */
             box-shadow: 3px 3px 6px #888;
             object-fit: cover; /* 避免图片失真 */
         }
@@ -70,7 +70,7 @@
     .paper-box-text {
         max-width: 100%;
         order: 1;
-        font-family: Arial, sans-serif; /* 明确设置文本字体为 Arial */
+        font-family: Arial, sans-serif; /* 确保文本部分也使用 Arial 字体 */
     }
 
     @include breakpoint($medium) {
@@ -78,8 +78,8 @@
             justify-content: left;
             min-width: 200px;
             max-width: 40%;
+            height: auto; /* 确保高度自适应 */
             order: 1;
-            height: auto; /* 在大屏幕上高度自动调整 */
         }
 
         .paper-box-text {
@@ -91,6 +91,7 @@
         }
     }
 }
+
 
 
 

@@ -55,6 +55,7 @@ redirect_from:
         <p style="margin-left: 6px; font-weight: normal; margin-top: -5px;">
           <a href="./pdf/SEC24-VEC.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Pdf] </a>
           <a href="https://drive.google.com/file/d/17voEyOaxGxl2kotKK8oH6yGPm6_HoXTP/view?usp=sharing" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Video] </a>
+          <a href="https://drive.google.com/file/d/1aquo75jCKTwzXN7moM1T5BfhhcfT3Kh_/view?usp=sharing" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Poster] </a>
           <a href="https://acm-ieee-sec.org/2024/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Conference] </a> 
         </p>
       </div>

@@ -16,11 +16,10 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hello! I am Yichen Luo, a Ph.D. student in Computer Science at William & Mary <a href="https://www.wm.edu/" target="_blank" style="color: #35705D; text-decoration: underline;">William & Mary</a>, under the mentorship of Dr. Sidi Lu. I earned my B.E. degree from Shanghai Dianji University in 2023.
 
-My research interests span the Internet of Things, autonomous driving, sensor systems, edge intelligence, and vehicle computing. I focus on designing innovative solutions for connected and intelligent vehicles, leveraging cutting-edge technologies to enhance performance and safety.
+# ⭐ Short Bio
+Hello! I am Yichen Luo, a Ph.D. student in Computer Science at William & Mary <a href="https://www.wm.edu/" target="_blank" style="color: #35705D; text-decoration: underline;">William & Mary</a>, under the mentorship of Dr. Sidi Lu <a href="https://sidilu.org/" target="_blank" style="color: #35705D; text-decoration: underline;">. I earned my B.E. degree from Shanghai Dianji University in 2023. My research interests span the Internet of Things, autonomous driving, sensor systems, edge intelligence, and vehicle computing. I focus on designing innovative solutions for connected and intelligent vehicles, leveraging cutting-edge technologies to enhance performance and safety.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News

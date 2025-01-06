@@ -51,7 +51,7 @@ redirect_from:
         <a href="./pdf/SEC24-VEC.pdf">An Efficient Data Transmission Framework for Connected Vehicles</a> <br>
         <p style="margin-left: 6px; font-family: Arial, sans-serif; font-size: 16px;">
           <b>Yichen Luo</b>, Yongtao Yao, Junzhou Chen, Sidi Lu, and Weisong Shi.<br>
-          The 9th ACM/IEEE Symposium on Edge Computing (SEC), Rome, Italy. </p> <br> 
+          The 9th ACM/IEEE Symposium on Edge Computing (SEC), Rome, Italy. </p>
         <p style="margin-left: 6px;">
           <a href="./pdf/SEC24-VEC.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Pdf] </a>
           <a href="https://drive.google.com/file/d/17voEyOaxGxl2kotKK8oH6yGPm6_HoXTP/view?usp=sharing" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Video] </a>
@@ -66,7 +66,7 @@ redirect_from:
         <a href="./pdf/IOTJ_24_Towards_Real-Time.pdf">Towards Real-Time and Efficient Perception Workflows in Software-Defined Vehicles</a> <br>
         <p style="margin-left: 6px; font-family: Arial, sans-serif; font-size: 16px;">
           Sumaiya, Reza Jafarpourmarzouni, <b>Yichen Luo</b>, Sidi Lu, and Zheng Dong.<br>
-          IEEE Internet of Things Journal. </p> <br>
+          IEEE Internet of Things Journal. </p>
         <p style="margin-left: 6px;">
           <a href="./pdf/IOTJ_24_Towards_Real-Time.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Pdf] </a>
           <a href="https://ieee-iotj.org/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;"> [Conference]</a> 

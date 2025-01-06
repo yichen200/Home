@@ -90,8 +90,7 @@ redirect_from:
       </div>
   </div>
    
-   
-   <div class="paper-item"> <div class="date"> <h5>2023</h5></div>  </div>
+
 </div>
 
 

@@ -107,3 +107,42 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+
+/* publication*/
+.paper-list{
+    display: flex;
+    flex-direction: column;
+    width: 85%;
+}
+.paper-item{
+    border-top: #33333321 solid 1px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.date{
+    width: 30%;
+    padding-left: 10px;
+}
+.pap{
+    width: 70%;
+}
+.paper-item p{
+    font-weight: bold;
+    font-size: small;
+}
+.paper-item a{
+    color: #35705D;
+    text-decoration: none; /* 取消下划线 */
+    font-size: 16px;
+}
+.paper-item a::before{
+    content: url('/static/PDF1.svg');
+    vertical-align: middle; /* 水平对齐 */
+     margin-right: 5px; /* 右边距 */
+}
+.paper-item a:hover{
+    color: #29588a;
+    text-decoration: underline; /* 下划线 */
+}

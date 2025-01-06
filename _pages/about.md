@@ -132,7 +132,7 @@ redirect_from:
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">📚 Research Project</span>
 
 <!-- OTA-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Currently</div><img src='proj_img/SEC-hardware.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Currently</div><img src='proj_img/OTA-draft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-item"> <a href="#" style="margin-left: -5px;">Incremental over-the-air (OTA) updates for software-defined vehicles</a> </div>

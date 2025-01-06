@@ -83,6 +83,7 @@ redirect_from:
           IEEE International Conference on Mobility, Operations, Services, and Technologies (MOST), Dallas, TX. </p>
         <p style="margin-left: 6px; font-weight: normal; margin-top: -5px;">
           <a href="./pdf/MOST24-Raindrop.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Pdf] </a>
+          <a href="https://drive.google.com/file/d/1yBGxDYc8-d9_UiVdmmfR_kt42lkxN1K6/view?usp=sharing" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Poster] </a>
           <a href="https://ieeemobility.org/MOST2024/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;"> [Conference]</a> 
         </p>
       </div>

@@ -74,6 +74,7 @@ redirect_from:
         </p>
       </div>
   </div>
+  
   <!-- MOST-raindrop -->
   <div class="paper-item">
     <div class="date"> <h5></h5></div>
@@ -94,14 +95,28 @@ redirect_from:
   <div class="paper-item">
     <!-- Data -->
       <div class="date"> <h5>2023</h5></div>
-      <!-- SEC_VEC -->
+      <!-- EAI-Battery -->
       <div class="pap">
-        <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-53401-0_19.pdf">Improved solar photovoltaic panel defect  detection technology based on YOLOv5</a> <br>
+        <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-53401-0_19.pdf">Improved Solar Photovoltaic Panel Defect  Detection Technology Based on YOLOv5</a> <br>
         <p style="margin-left: 6px; font-family: Arial, sans-serif; font-size: 16px; font-weight: normal;">
           Shangxian Teng, Zhonghua Liu, <b>Yichen Luo</b>, and Pengpeng Zhang.<br>
           The 6th EAI International Conference on 6G for Future Wireless Networks, Shanghai, China.</p>
         <p style="margin-left: 6px; font-weight: normal; margin-top: -5px;">
           <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-53401-0_19.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Pdf] </a>
+          <a href="https://5gwn.eai-conferences.org/2023/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Conference] </a> 
+        </p>
+      </div>
+  </div>
+      <!-- EAI-Plastic Runway-->
+  <div class="paper-item">
+    <div class="date"> <h5></h5></div>
+      <div class="pap">
+        <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-53404-1_12.pdf">Multiple Color Feature and Contextual Attention Mechanism Based on YOLOX </a> <br>
+        <p style="margin-left: 6px; font-family: Arial, sans-serif; font-size: 16px; font-weight: normal;">
+          Shuaidi Shan, Pengpeng Zhang, Xinlei Wang, Shangxian Teng, and <b>Yichen Luo</b>.
+          The 6th EAI International Conference on 6G for Future Wireless Networks, Shanghai, China.</p>
+        <p style="margin-left: 6px; font-weight: normal; margin-top: -5px;">
+          <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-53404-1_12.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Pdf] </a>
           <a href="https://5gwn.eai-conferences.org/2023/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Conference] </a> 
         </p>
       </div>

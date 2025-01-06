@@ -59,7 +59,7 @@ redirect_from:
         </p>
       </div>
   </div>
-      <!-- SEC_VEC -->
+  <!-- IOTJ-realtime -->
   <div class="paper-item">
     <div class="date"> <h5></h5></div>
       <div class="pap">
@@ -73,14 +73,24 @@ redirect_from:
         </p>
       </div>
   </div>
-
+  <!-- MOST-raindrop -->
+  <div class="paper-item">
+    <div class="date"> <h5></h5></div>
+      <div class="pap">
+        <a href="./pdf/MOST24-Raindrop.pdf">Impact of Raindrops on Camera-Based Detection in Software-Defined Vehicles</a> <br>
+        <p style="margin-left: 6px; font-family: Arial, sans-serif; font-size: 16px; font-weight: normal;">
+          <b>Yichen Luo</b>, Daoxuan Xu, Gang Zhou, Yifan Sun, and Sidi Lu.<br>
+          IEEE International Conference on Mobility, Operations, Services, and Technologies (MOST), Dallas, TX. </p>
+        <p style="margin-left: 6px; font-weight: normal; margin-top: -5px;">
+          <a href="./pdf/MOST24-Raindrop.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Pdf] </a>
+          <a href="https://ieeemobility.org/MOST2024/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;"> [Conference]</a> 
+        </p>
+      </div>
+  </div>
    
    
    <div class="paper-item"> <div class="date"> <h5>2023</h5></div>  </div>
 </div>
-
-
-- <u>J. Li</u>, S. Wang, S. Cai, X. Zhang, H. Li (2024). Brain Signal-Based Auditory Spatial Attention Detection: Evolution from Linear to Non-Linear Models. *(Manuscript Under revision)*
 
 
 

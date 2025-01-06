@@ -48,6 +48,7 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0;
+    font-family: Arial, sans-serif; /* 设置整体字体为 Arial */
 
     .paper-box-image {
         justify-content: center;
@@ -69,6 +70,7 @@
     .paper-box-text {
         max-width: 100%;
         order: 1;
+        font-family: Arial, sans-serif; /* 明确设置文本字体为 Arial */
     }
 
     @include breakpoint($medium) {
@@ -85,9 +87,11 @@
             padding-left: 2em;
             max-width: 60%;
             order: 2;
+            font-family: Arial, sans-serif; /* 响应式下确保字体一致 */
         }
     }
 }
+
 
 
 $scroll_offset : 2em;

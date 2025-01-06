@@ -40,29 +40,12 @@ redirect_from:
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">📜 Publications </span>
 
 
-<div class="paper-list">
-  <div class="paper-item">
+<div class="paper-list"> <div class="paper-item">
     <!-- 日期部分 -->
-    <div class="date">
-      <h5>2024</h5>
-    </div>
+    <div class="date"> <h5>2024</h5> </div></div>d
 
-    <!-- 论文部分 -->
-  <div class="pap">
-      <a href="./pdf/SEC24-VEC.pdf" title="Download the paper">
-        An Efficient Data Transmission Framework for Connected Vehicles
-      </a>
-      <p style="margin: 0; line-height: 2; font-family: Arial, sans-serif;">
-        <b>Yichen Luo</b>, Yongtao Yao, Junzhou Chen, Sidi Lu, and Weisong Shi.<br>
-        The 9th ACM/IEEE Symposium on Edge Computing (SEC), Rome, Italy.
-        <a href="https://acm-ieee-sec.org/2024/" target="_blank" 
-           style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;" 
-           title="Visit the conference page">
-          [Conference]
-        </a>
-      </p>
-    </div>
-  </div>
+
+   <div class="paper-item"> <div class="date"> <h5>2023</h5> </div></div>
 </div>
 
 

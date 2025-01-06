@@ -43,11 +43,12 @@ redirect_from:
 
 <div class="paper-list"> <div class="paper-item">
     <!-- 日期部分 -->
-    <div class="date"> <h5>2024</h5></div> 
+    <div class="date"> <h5>2024</h5></div>
+  <div class="pap">
     <a href="./pdf/SEC24-VEC.pdf">An Efficient Data Transmission Framework for Connected Vehicles</a> <br>
     <b>Yichen Luo</b>, Yongtao Yao, Junzhou Chen, Sidi Lu, and Weisong Shi.<br>
     The 9th ACM/IEEE Symposium on Edge Computing (SEC), Rome, Italy.</div>
-
+  </div>
 
    <div class="paper-item"> <div class="date"> <h5>2023</h5></div>  </div>
 </div>

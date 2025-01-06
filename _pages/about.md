@@ -42,9 +42,11 @@ redirect_from:
 
 
 <div class="paper-list"> 
+   <!-- 2024-->
   <div class="paper-item">
-    <!-- 日期部分 -->
+    <!-- Data -->
       <div class="date"> <h5>2024</h5></div>
+      <!-- SEC_VEC -->
       <div class="pap">
         <a href="./pdf/SEC24-VEC.pdf">An Efficient Data Transmission Framework for Connected Vehicles</a> <br>
         <p style="margin: 0; margin-left: 6px;">
@@ -52,10 +54,24 @@ redirect_from:
           The 9th ACM/IEEE Symposium on Edge Computing (SEC), Rome, Italy. <br>
           <a href="./pdf/SEC24-VEC.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Pdf] </a>
           <a href="https://drive.google.com/file/d/17voEyOaxGxl2kotKK8oH6yGPm6_HoXTP/view?usp=sharing" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Video] </a>
-          <a href="https://acm-ieee-sec.org/2024/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;"> [Conference] </a>         </p>
+          <a href="https://acm-ieee-sec.org/2024/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;"> [Conference]</a> 
+        </p>
+      </div>
+  </div>
+      <!-- SEC_VEC -->
+      <div class="pap">
+        <a href="./pdf/IOTJ_24_Towards_Real-Time.pdf">Towards Real-Time and Efficient Perception Workflows in Software-Defined Vehicles</a> <br>
+        <p style="margin: 0; margin-left: 6px;">
+          Sumaiya, Reza Jafarpourmarzouni, <b>Yichen Luo</b>, Sidi Lu, and Zheng Dong.<br>
+          IEEE Internet of Things Journal. <br>
+          <a href="./pdf/IOTJ_24_Towards_Real-Time.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Pdf] </a>
+          <a href="https://ieee-iotj.org/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;"> [Conference]</a> 
+        </p>
       </div>
   </div>
 
+   
+   
    <div class="paper-item"> <div class="date"> <h5>2023</h5></div>  </div>
 </div>
 

@@ -16,7 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# <span style="font-weight: bold; color: #654f4fcb; font-size: 24px;">⭐ Short Bio</span>
+<div>
+  <h1 style="font-weight: bold; color: #654f4fcb; font-size: 24px;">⭐ Short Bio</h1>
+  <hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;">
+</div>
+
 <p style="font-family: Arial, sans-serif;">
     Hello! I am Yichen Luo, a Ph.D. student in Computer Science at 
     <a href="https://www.wm.edu/" target="_blank" style="color: #35705D; text-decoration: underline;">William & Mary</a>, 

@@ -35,9 +35,10 @@ redirect_from:
 <p style="font-family: Arial, sans-serif;">- 2024: International Student Opportunity Scholarship at William & Mary. &nbsp;🎉</p>
 
 
-# <span style="font-weight: bold; color: #654f4fcb; font-size: 24px;">📚 Publications </span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+# <span style="font-weight: bold; color: #654f4fcb; font-size: 24px;">📚 Publications </span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='proj_img/SEC-hardware.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Efficient Data Transmission Framework for Connected Vehicles](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)

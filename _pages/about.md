@@ -16,11 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<div>
-  <h1 style="font-weight: bold; color: #654f4fcb; font-size: 24px;">⭐ Short Bio</h1>
-  <hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;">
-</div>
-
+# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">⭐ Short Bio</span>
 <p style="font-family: Arial, sans-serif;">
     Hello! I am Yichen Luo, a Ph.D. student in Computer Science at 
     <a href="https://www.wm.edu/" target="_blank" style="color: #35705D; text-decoration: underline;">William & Mary</a>, 
@@ -34,7 +30,7 @@ redirect_from:
 
 
 
-# <span style="font-weight: bold; color: #654f4fcb; font-size: 24px;">🔥 News</span>
+# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">🔥 News</span>
 <p style="font-family: Arial, sans-serif;">- 2024: NSF ACM/IEEE Symposium on Edge Computing (SEC) Student Travel Grant. &nbsp;🎉 </p>
 <p style="font-family: Arial, sans-serif;">- 2024: International Student Opportunity Scholarship at William & Mary. &nbsp;🎉</p>
 
@@ -44,7 +40,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[An Efficient Data Transmission Framework for Connected Vehicles](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 

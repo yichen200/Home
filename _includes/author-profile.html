@@ -8,10 +8,16 @@
     <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
   </div>
 
-  <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-  </div>
+<div class="author__content" style="font-family: Arial, sans-serif;">
+    <h3 class="author__name" style="color: #9E7840; text-align: center; font-family: Arial, sans-serif;">
+        {{ author.name }}
+    </h3>
+    {% if author.bio %}
+        <p class="author__bio" style="font-family: Arial, sans-serif;">
+            {{ author.bio }}
+        </p>
+    {% endif %}
+</div>
 
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->

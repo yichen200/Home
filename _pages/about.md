@@ -45,12 +45,14 @@ redirect_from:
 
 **Yichen Luo**, Yongtao Yao, Junzhou Chen, Sidi Lu, and Weisong Shi
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Two Reinforcement Learning (RL) Policies: We design two vehicle-based RL policies (tracking-driven and similarity-driven) on vehicles to dynamically TCS based on real-time driving conditions.
-- Vehicle-EdgeServer-Cloud (VEC) Closed-Loop Framework: This framework integrates adaptive compression mechanisms to streamline information flow: vehicles perform real-time object detection on compressed data, EdgeServers reconstruct scenes as needed, and the cloud aggregates results for continuous model updates across the network.
-- Testing on industry-grade hardware to ensure real-world performance and reliability.
+
+
+- **Summary**: Conducted a comprehensive review on spatial sound source localization using EEG signals, summarizing key datasets and providing model baselines to aid future research.
+- **Methods and Tools**: Collected and processed EEG datasets, including public and self-recorded scalp EEG data. Evaluated both foundational and deep learning methods such as CNN and attention-based models, achieving over 97% accuracy in decoding spatial sound positions.
+- **Key Outcomes**: Established a thorough overview of the research progress in EEG-based sound source localization, providing benchmark results and offering insights into data preprocessing and model improvements for future studies.
 </div>
 </div>
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 

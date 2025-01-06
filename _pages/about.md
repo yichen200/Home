@@ -37,7 +37,21 @@ redirect_from:
 
 
 <br>
-# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">📚 Publications </span>
+# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">📜 Publications </span>
+
+<a href="./pdf/SEC24-VEC.pdf">An Efficient Data Transmission Framework for Connected Vehicles</a>
+  <p style="margin: 0; line-height: 2;">
+    <b>Yichen Luo</b>, Yongtao Yao, Junzhou Chen, Sidi Lu, and Weisong Shi.<br>
+     The 9th ACM/IEEE Symposium on Edge Computing (SEC), Rome, Italy.
+    <a href="https://acm-ieee-sec.org/2024/" target="_blank" style="text-decoration: none; font-family: 'Footlight MT Light', sans-serif; font-size: 14px;">
+                                    [Conference] </a>
+  </p>
+
+- <u>J. Li</u>, S. Wang, S. Cai, X. Zhang, H. Li (2024). Brain Signal-Based Auditory Spatial Attention Detection: Evolution from Linear to Non-Linear Models. *(Manuscript Under revision)*
+
+
+
+# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">📚 Project</span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SEC 2024</div><img src='proj_img/SEC-hardware.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

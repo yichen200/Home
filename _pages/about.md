@@ -131,7 +131,7 @@ redirect_from:
 <br>
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">📚 Research Project</span>
 
-<h2 style="font-size: 28px; font-family: Arial, sans-serif;">🕰️ PhD Journey</h2>
+<h2 style="font-size: 24px; font-family: Arial, sans-serif;">🕰️ PhD Journey</h2>
 
 <!-- OTA-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Currently</div><img src='proj_img/OTA-draft.png' alt="sym" width="100%"></div></div>
@@ -174,7 +174,22 @@ redirect_from:
 </div>
 
 
-<h2 style="font-size: 28px; font-family: Arial, sans-serif;">🌱 Undergraduate Journey</h2>
+<h2 style="font-size: 24px; font-family: Arial, sans-serif;">🌱 Undergraduate Journey</h2>
+
+<!-- MOST-Raindrop-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 Fall - 2023 Spring</div><img src='proj_img/rain_frame.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<div class="paper-item"> <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-53404-1_12.pdf" style="margin-left: -5px;">Plastic runway surface damage detection system with YOLO</a> </div>
+
+<em>My role: Project Leader</em>
+- Modify underlying algorithms by adopting traditional computer vision algorithms and pruning algorithms to improve the accuracy and speed of the recognition process.
+- Utilized Raspberry Pi 3B+ and a vehicle-mounted video camera for collecting picture information; also employed Wi-Fi, TCP Protocol, and Secure Shell (SSH) for communication between the upper computer and the lower computer
+- For the front-end and back-end, I built the web page with Django and enabled the function of picture uploading through POST request; the customer run YOLOX to conduct tests, and receive output on client-end; I also created the database with MySQL to support the front-end
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

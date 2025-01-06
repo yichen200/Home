@@ -52,7 +52,7 @@ redirect_from:
         <p style="margin-left: 6px; font-family: Arial, sans-serif; font-size: 16px; font-weight: normal;">
           <b>Yichen Luo</b>, Yongtao Yao, Junzhou Chen, Sidi Lu, and Weisong Shi.<br>
           The 9th ACM/IEEE Symposium on Edge Computing (SEC), Rome, Italy.</p>
-        <p style="margin-left: 8px; font-weight: normal; margin-top: -5px;">
+        <p style="margin-left: 10px; font-weight: normal; margin-top: -5px;">
           <a href="./pdf/SEC24-VEC.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Pdf] </a>
           <a href="https://drive.google.com/file/d/17voEyOaxGxl2kotKK8oH6yGPm6_HoXTP/view?usp=sharing" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Video] </a>
           <a href="https://drive.google.com/file/d/1aquo75jCKTwzXN7moM1T5BfhhcfT3Kh_/view?usp=sharing" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Poster] </a>
@@ -68,7 +68,7 @@ redirect_from:
         <p style="margin-left: 6px; font-family: Arial, sans-serif; font-size: 16px; font-weight: normal;">
           Sumaiya, Reza Jafarpourmarzouni, <b>Yichen Luo</b>, Sidi Lu, and Zheng Dong.<br>
           IEEE Internet of Things Journal. </p>
-        <p style="margin-left: 8px; font-weight: normal; margin-top: -5px;">
+        <p style="margin-left: 10px; font-weight: normal; margin-top: -5px;">
           <a href="./pdf/IOTJ_24_Towards_Real-Time.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Pdf] </a>
           <a href="https://ieee-iotj.org/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;"> [Conference]</a> 
         </p>
@@ -83,7 +83,7 @@ redirect_from:
         <p style="margin-left: 6px; font-family: Arial, sans-serif; font-size: 16px; font-weight: normal;">
           <b>Yichen Luo</b>, Daoxuan Xu, Gang Zhou, Yifan Sun, and Sidi Lu.<br>
           IEEE International Conference on Mobility, Operations, Services, and Technologies (MOST), Dallas, TX. </p>
-        <p style="margin-left: 8px; font-weight: normal; margin-top: -5px;">
+        <p style="margin-left: 10px; font-weight: normal; margin-top: -5px;">
           <a href="./pdf/MOST24-Raindrop.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Pdf] </a>
           <a href="https://drive.google.com/file/d/1yBGxDYc8-d9_UiVdmmfR_kt42lkxN1K6/view?usp=sharing" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Poster] </a>
           <a href="https://ieeemobility.org/MOST2024/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;"> [Conference]</a> 
@@ -101,7 +101,7 @@ redirect_from:
         <p style="margin-left: 6px; font-family: Arial, sans-serif; font-size: 16px; font-weight: normal;">
           Shangxian Teng, Zhonghua Liu, <b>Yichen Luo</b>, and Pengpeng Zhang.<br>
           The 6th EAI International Conference on 6G for Future Wireless Networks, Shanghai, China.</p>
-        <p style="margin-left: 8px; font-weight: normal; margin-top: -5px;">
+        <p style="margin-left: 10px; font-weight: normal; margin-top: -5px;">
           <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-53401-0_19.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Pdf] </a>
           <a href="https://5gwn.eai-conferences.org/2023/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Conference] </a> 
         </p>
@@ -115,7 +115,7 @@ redirect_from:
         <p style="margin-left: 6px; font-family: Arial, sans-serif; font-size: 16px; font-weight: normal;">
           Shuaidi Shan, Pengpeng Zhang, Xinlei Wang, Shangxian Teng, and <b>Yichen Luo</b>.
           The 6th EAI International Conference on 6G for Future Wireless Networks, Shanghai, China.</p>
-        <p style="margin-left: 8px; font-weight: normal; margin-top: -5px;">
+        <p style="margin-left: 10px; font-weight: normal; margin-top: -5px;">
           <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-53404-1_12.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Pdf] </a>
           <a href="https://5gwn.eai-conferences.org/2023/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Conference] </a> 
         </p>

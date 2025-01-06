@@ -50,15 +50,20 @@
     padding: 2em 0 2em 0;
     
 
-    .paper-box-image{
+    .paper-box-image {
         justify-content: center;
         display: flex;
         width: 100%;
+        height: auto; /* 设置高度自适应 */
         order: 2;
+
         img {
             max-width: 400px;
+            max-height: 100%; /* 确保图片不会超出容器 */
+            width: 100%; /* 保持图片宽度自适应 */
+            height: auto; /* 保持图片高度比例 */
             box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
+            object-fit: cover; /* 避免图片失真 */
         }
     }
     
@@ -68,10 +73,11 @@
     }
     
     @include breakpoint($medium) {
-        .paper-box-image{
+        .paper-box-image {
             justify-content: left;
             min-width: 200px;
             max-width: 40%;
+            height: auto; /* 确保高度自适应 */
             order: 1;
         }
         

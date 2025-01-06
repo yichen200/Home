@@ -41,7 +41,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SEC 2024</div><img src='proj_img/SEC-hardware.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Efficient Data Transmission Framework for Connected Vehicles](./pdf/SEC24-VEC.pdf)
+[An Efficient Data Transmission Framework for Connected Vehicles]
 
 **Yichen Luo**, Yongtao Yao, Junzhou Chen, Sidi Lu, and Weisong Shi
 

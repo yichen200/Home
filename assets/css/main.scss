@@ -113,16 +113,18 @@ h1:before, .anchor:before {
 .paper-list{
     display: flex;
     flex-direction: column;
+    font-family: Arial, sans-serif; /* 使用 Arial 字体 */
     width: 85%;
 }
 .paper-item{
     border-top: #33333321 solid 1px;
     padding-top: 10px;
+    font-family: Arial, sans-serif; /* 使用 Arial 字体 */
     display: flex;
     flex-direction: row;
 }
 .date {
-    width: 30%;
+    width: 15%;
     padding-left: 10px;
     font-family: Arial, sans-serif; /* 使用 Arial 字体 */
     font-size: 18px; /* 设置字体大小为 18px */
@@ -133,10 +135,12 @@ h1:before, .anchor:before {
 .paper-item p{
     font-weight: bold;
     font-size: small;
+    font-family: Arial, sans-serif; /* 使用 Arial 字体 */
 }
 .paper-item a{
     color: #35705D;
     text-decoration: none; /* 取消下划线 */
+    font-family: Arial, sans-serif; /* 使用 Arial 字体 */
     font-size: 16px;
 }
 .paper-item a::before{

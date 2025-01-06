@@ -114,7 +114,7 @@ h1:before, .anchor:before {
     display: flex;
     flex-direction: column;
     font-family: Arial, sans-serif; /* 使用 Arial 字体 */
-    width: 85%;
+    width: 100%;
 }
 .paper-item{
     border-top: #33333321 solid 1px;
@@ -130,7 +130,7 @@ h1:before, .anchor:before {
     font-size: 18px; /* 设置字体大小为 18px */
 }
 .pap{
-    width: 70%;
+    width: 100%;
 }
 .paper-item p{
     font-weight: bold;

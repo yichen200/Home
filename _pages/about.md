@@ -30,7 +30,7 @@ redirect_from:
 <div><hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;"></div>
 
 
-
+<br>
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">🔥 News</span>
 <p style="font-family: Arial, sans-serif;">- 2024: NSF ACM/IEEE Symposium on Edge Computing (SEC) Student Travel Grant. &nbsp;🎉 </p>
 <p style="font-family: Arial, sans-serif;">- 2024: International Student Opportunity Scholarship at William & Mary. &nbsp;🎉</p>
@@ -123,6 +123,9 @@ redirect_from:
   </div>
 
 </div>
+
+<div><hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;"></div>
+
 
 
 <br>

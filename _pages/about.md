@@ -50,7 +50,7 @@ redirect_from:
         <b>Yichen Luo</b>, Yongtao Yao, Junzhou Chen, Sidi Lu, and Weisong Shi.<br>
         The 9th ACM/IEEE Symposium on Edge Computing (SEC), Rome, Italy. <br>
         <a href="./pdf/SEC24-VEC.pdf" target="_blank" style="text-decoration: underline; font-family: 'Footlight MT Light', sans-serif; font-size: 14px;">[Pdf] </a>
-        <a href="[https://acm-ieee-sec.org/2024/](https://drive.google.com/file/d/17voEyOaxGxl2kotKK8oH6yGPm6_HoXTP/view?usp=sharing)" target="_blank" style="text-decoration: underline; font-family: 'Footlight MT Light', sans-serif; font-size: 14px;">[Video] </a>
+        <a href="https://drive.google.com/file/d/17voEyOaxGxl2kotKK8oH6yGPm6_HoXTP/view?usp=sharing" target="_blank" style="text-decoration: underline; font-family: 'Footlight MT Light', sans-serif; font-size: 14px;">[Video] </a>
         <a href="https://acm-ieee-sec.org/2024/" target="_blank" style="text-decoration: underline; font-family: 'Footlight MT Light', sans-serif; font-size: 14px;">[Conference] </a>
       </div>
   </div>

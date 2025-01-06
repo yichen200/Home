@@ -26,8 +26,8 @@ redirect_from:
     <a href="https://www.wm.edu/" target="_blank" style="color: #35705D; text-decoration: underline;">William & Mary</a>, 
     under the mentorship of 
     <a href="https://sidilu.org/" target="_blank" style="color: #35705D; text-decoration: underline;">Dr. Sidi Lu</a>. 
-    I earned my B.E. degree from Shanghai Dianji University in 2023. My research interests span the Internet of Things, 
-    autonomous driving, sensor systems, edge intelligence, and vehicle computing. I focus on designing innovative solutions 
+    I earned my B.E. degree from Shanghai Dianji University in 2023. My research interests span the <em> Internet of Things, 
+    autonomous driving, sensor systems, edge intelligence, and vehicle computing </em>. I focus on designing innovative solutions 
     for connected and intelligent vehicles, leveraging cutting-edge technologies to enhance performance and safety.
 </p>
 
@@ -35,8 +35,8 @@ redirect_from:
 
 
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 24px;">🔥 News</span>
-<p style="font-family: Arial, sans-serif;">- <em>2024</em>: &nbsp;🎉 🎉 NSF ACM/IEEE Symposium on Edge Computing (SEC) Student Travel Grant. </p>
-<p style="font-family: Arial, sans-serif;">- <em>2024</em>: &nbsp;🎉 🎉 International Student Opportunity Scholarship at William & Mary.</p>
+<p style="font-family: Arial, sans-serif;">- 2024: NSF ACM/IEEE Symposium on Edge Computing (SEC) Student Travel Grant. &nbsp;🎉 </p>
+<p style="font-family: Arial, sans-serif;">- 2024: International Student Opportunity Scholarship at William & Mary. &nbsp;🎉</p>
 
 
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 24px;">📚 Publications </span>

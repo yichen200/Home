@@ -29,9 +29,10 @@ redirect_from:
 
 
 
+
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 24px;">🔥 News</span>
-- *2024*: &nbsp;🎉🎉 NSF ACM/IEEE Symposium on Edge Computing (SEC) Student Travel Grant. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<p style="font-family: Arial, sans-serif;">- <em>2024</em>: &nbsp;🎉 🎉 NSF ACM/IEEE Symposium on Edge Computing (SEC) Student Travel Grant. </p>
+<p style="font-family: Arial, sans-serif;">- <em>2024</em>: &nbsp;🎉 🎉 International Student Opportunity Scholarship at William & Mary.</p>
 
 
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 24px;">📚 Publications </span>

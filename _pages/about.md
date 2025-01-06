@@ -39,14 +39,22 @@ redirect_from:
 <br>
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">📜 Publications </span>
 
-<a href="./pdf/SEC24-VEC.pdf">An Efficient Data Transmission Framework for Connected Vehicles</a>
-  <p style="margin: 0; line-height: 2;">
-    <b>Yichen Luo</b>, Yongtao Yao, Junzhou Chen, Sidi Lu, and Weisong Shi.<br>
-     The 9th ACM/IEEE Symposium on Edge Computing (SEC), Rome, Italy.
-    <a href="https://acm-ieee-sec.org/2024/" target="_blank" style="text-decoration: none; font-family: 'Footlight MT Light', sans-serif; font-size: 14px;">
-                                    [Conference] </a>
-  </p>
 
+<div class="paper-list">
+  <div class="paper-item">
+      <div class="date"> <h5>2024</h5> </div>
+
+  <div class="pap">
+      <a href="./pdf/SEC24-VEC.pdf">An Efficient Data Transmission Framework for Connected Vehicles</a>
+        <p style="margin: 0; line-height: 2;">
+        <b>Yichen Luo</b>, Yongtao Yao, Junzhou Chen, Sidi Lu, and Weisong Shi.<br>
+         The 9th ACM/IEEE Symposium on Edge Computing (SEC), Rome, Italy.
+        <a href="https://acm-ieee-sec.org/2024/" target="_blank" style="text-decoration: none; font-family: 'Footlight MT Light', sans-serif; font-size: 14px;">
+                                    [Conference] </a>
+        </p>
+    </div>
+  </div>
+</div>
 - <u>J. Li</u>, S. Wang, S. Cai, X. Zhang, H. Li (2024). Brain Signal-Based Auditory Spatial Attention Detection: Evolution from Linear to Non-Linear Models. *(Manuscript Under revision)*
 
 
@@ -56,7 +64,9 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 <a href="pdf/SEC24-VEC.pdf">An Efficient Data Transmission Framework for Connected Vehicles</a>
-[**Project**]
+
+
+[**Research Projects**]
 - Two Reinforcement Learning (RL) Policies: We design two vehicle-based RL policies (tracking-driven and similarity-driven) on vehicles to dynamically TCS based on real-time driving conditions.
 - Vehicle-EdgeServer-Cloud (VEC) Closed-Loop Framework: This framework integrates adaptive compression mechanisms to streamline information flow: vehicles perform real-time object detection on compressed data, EdgeServers reconstruct scenes as needed, and the cloud aggregates results for continuous model updates across the network.
 - Testing on industry-grade hardware to ensure real-world performance and reliability.

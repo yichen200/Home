@@ -130,12 +130,28 @@ redirect_from:
 
 <br>
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">📚 Research Project</span>
+
+<!-- OTA-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Currently</div><img src='proj_img/SEC-hardware.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<div class="paper-item"> <a href=# style="margin-left: -5px;">Incremental over-the-air (OTA) updates for software-defined vehicles</a> </div>
+
+<em>My role: Project Leader</em>
+- Proposed a software over-the-air (OTA) update framework for software-defined vehicles (SDVs), leveraging a robotic vehicle and an industry-grade roadside unit (RSU)
+- Developed RSU- and vehicle-side mechanisms to support incremental updates, enhancing efficiency in software version management
+- Assessed the performance of Cellular Vehicle-to-Everything (C-V2X) technology, combining V2X and 5G, along with Wi-Fi communication for efficient OTA transmission.
+</div>
+</div>
+
+
+<!-- SEC-VEC-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SEC 2024</div><img src='proj_img/SEC-hardware.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-item"> <a href="pdf/SEC24-VEC.pdf" style="margin-left: -5px;">An Efficient Data Transmission Framework for Connected Vehicles</a> </div>
 
-My role: Project Leader
+<em>My role: Project Leader</em>
 - <span style="text-decoration: underline; text-decoration-thickness: 2px;">
   Two Reinforcement Learning (RL) Policies:</span> We design two vehicle-based RL policies (tracking-driven and similarity-driven) to dynamically TCS vehicles based on real-time driving conditions.
 - <span style="text-decoration: underline; text-decoration-thickness: 2px;"> Vehicle-EdgeServer-Cloud (VEC) Framework:</span> This framework integrates adaptive compression mechanisms to streamline information flow: vehicles perform real-time object detection on compressed data, EdgeServers reconstruct scenes as needed, and the cloud aggregates results for continuous model updates across the network.

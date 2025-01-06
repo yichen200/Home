@@ -20,9 +20,9 @@ redirect_from:
 Hello! I am Yichen Luo, a Ph.D. student in Computer Science at William & Mary <a href="https://www.wm.edu/" target="_blank" style="color: #35705D; text-decoration: underline;">William & Mary</a>, under the mentorship of Dr. Sidi Lu <a href="https://sidilu.org/" target="_blank" style="color: #35705D; text-decoration: underline;">Dr. Sidi Lu</a>. I earned my B.E. degree from Shanghai Dianji University in 2023. My research interests span the Internet of Things, autonomous driving, sensor systems, edge intelligence, and vehicle computing. I focus on designing innovative solutions for connected and intelligent vehicles, leveraging cutting-edge technologies to enhance performance and safety.
 
 
-<be>
+<br>
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 24px;">🔥 News</span>
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024*: &nbsp;🎉🎉 NSF ACM/IEEE Symposium on Edge Computing (SEC) Student Travel Grant. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 

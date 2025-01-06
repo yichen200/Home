@@ -131,6 +131,7 @@ redirect_from:
 <br>
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">📚 Research Project</span>
 
+## 🕰️ PhD Journey
 <!-- OTA-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Currently</div><img src='proj_img/OTA-draft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -171,6 +172,8 @@ redirect_from:
 </div>
 </div>
 
+
+## 🌱 Undergraduate Journey
 
 
 # 🎖 Honors and Awards

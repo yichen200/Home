@@ -133,7 +133,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SEC 2024</div><img src='proj_img/SEC-hardware.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<div class="pap"> <a href="pdf/SEC24-VEC.pdf">An Efficient Data Transmission Framework for Connected Vehicles</a> </div>
+<div class="paper-item"> <a href="pdf/SEC24-VEC.pdf">An Efficient Data Transmission Framework for Connected Vehicles</a> </div>
 
 My role: Project Leader
 - <span style="text-decoration: underline; text-decoration-thickness: 2px;">

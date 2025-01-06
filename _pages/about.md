@@ -1,5 +1,5 @@
 ---
-permalink: /
+per
 title: ""
 excerpt: ""
 author_profile: true
@@ -36,8 +36,8 @@ redirect_from:
 
 
 
-
-# <span style="font-weight: bold; color: #654f4fcb; font-size: 24px;">📚 Publications </span>
+<br>
+# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">📚 Publications </span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SEC 2024</div><img src='proj_img/SEC-hardware.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -46,7 +46,9 @@ redirect_from:
 **Yichen Luo**, Yongtao Yao, Junzhou Chen, Sidi Lu, and Weisong Shi
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Two Reinforcement Learning (RL) Policies: We design two vehicle-based RL policies (tracking-driven and similarity-driven) on vehicles to dynamically TCS based on real-time driving conditions.
+- Vehicle-EdgeServer-Cloud (VEC) Closed-Loop Framework: This framework integrates adaptive compression mechanisms to streamline information flow: vehicles perform real-time object detection on compressed data, EdgeServers reconstruct scenes as needed, and the cloud aggregates results for continuous model updates across the network.
+- Testing on industry-grade hardware to ensure real-world performance and reliability.
 </div>
 </div>
 

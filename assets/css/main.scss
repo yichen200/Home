@@ -101,7 +101,7 @@ h1:before, .anchor:before {
     padding-left: 1rem;
     padding-right: 1rem;
     position: absolute;
-    margin-top: calc(.5em - 10px);
+    margin-top: calc(.5em - 30px);
     margin-left: -.5em;
     color: white;
     background-color: #165740;
@@ -121,9 +121,11 @@ h1:before, .anchor:before {
     display: flex;
     flex-direction: row;
 }
-.date{
+.date {
     width: 30%;
     padding-left: 10px;
+    font-family: Arial, sans-serif; /* 使用 Arial 字体 */
+    font-size: 18px; /* 设置字体大小为 18px */
 }
 .pap{
     width: 70%;

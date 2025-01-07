@@ -206,8 +206,8 @@ redirect_from:
 
 <!-- DEMO -->
 <div class='paper-box'>
+  <h2 style="font-size: 20px; font-family: Arial, sans-serif;">🎥DEMO</h2>
   <div class="gif-container">
-    <h2 style="font-size: 20px; font-family: Arial, sans-serif;">🎥DEMO</h2>
     <!-- 图片和文字说明 -->
     <div class="gif-item">
       <div class="label" style="color: #fff; font-size: 12px; margin-bottom: 10px; background-color: #165740; padding: 5px 10px; display: inline-block;">Greenhouse</div>

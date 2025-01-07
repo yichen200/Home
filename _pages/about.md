@@ -205,17 +205,18 @@ redirect_from:
 
 
 <!-- DEMO -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DEMO</div><img src='proj_img/Greenhouse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class="badge">GreenHouse</div>
 
   <div class="gif-container">
     <!-- 图片和文字说明 -->
     <div class="gif-item">
       <img src="proj_img/GreenHouses.gif" alt="GIF 1">
-      <p>GIF 1: Description of the first image</p>
+      <p>Laboratory Environment</p>
     </div>
+    <div class="badge">CAR</div>
     <div class="gif-item">
       <img src="proj_img/car.gif" alt="GIF 2">
-      <p>GIF 2: Description of the second image</p>
+      <p>Line-Following Robot Car</p>
     </div>
   </div>
 

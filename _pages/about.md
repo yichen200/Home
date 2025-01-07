@@ -228,6 +228,17 @@ redirect_from:
 </div>
 
 
+<br>
+# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">💻 Internships </span>
+
+**2022.06 - 2022.11, <a href="https://www.bayer.com.cn/en/" target="_blank" style="color: #35705D; text-decoration: underline;">Bayer Consumer Health</a>, Shanghai, China** 
+Computer Vision Intern | Digital Transformation and IT Department
+Manager:  <a href="fisher.jia@bayer.com" target="_blank" style="color: #35705D; text-decoration: underline;">Fisher Jia</a>
+
+- Analyze e-commerce market share, applying basic methods to study various Chinese e-commerce brands. Collect data through a crawler, perform data analysis, and discuss findings with the Department of Marketing.
+- Investigate the root causes of failures in an OCR technology designed for small ticket image recognition. Serve as the project manager to improve and test the system's design.
+- Support the company's training department by: i) Designing a survey system, including creating survey questionnaires, web pages, QR codes, and conducting final testing; ii) Using the Python pandas package to clean survey data collected by colleagues; iii) Providing technical support for live broadcasts, such as testing the live video environment in the initial stages and monitoring the live broadcast. Additionally, prepare a final technical report.
+
 
 
 
@@ -243,5 +254,3 @@ redirect_from:
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.

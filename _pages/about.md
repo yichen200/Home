@@ -181,7 +181,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-item"> <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-53404-1_12.pdf" style="margin-left: -5px;">Plastic runway surface damage detection system with YOLO</a> </div>
-
+<em>Team: Shuaidi Shan, Xinlei Wang, Yichen Luo</em>
 <em>My role: Project Leader</em>
 - Utilize Raspberry Pi 3B+ and a vehicle-mounted video camera for collecting picture information; also employ Wi-Fi, TCP Protocol, and Secure Shell (SSH) for communication between the upper computer and the lower computer.
 - For the front-end and back-end, I build the web page with Django and enable the picture uploading function through POST requests. The customer runs YOLOX to conduct tests and receives output on the client side. I also create the database with MySQL to support the front-end.
@@ -195,8 +195,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-item"> <a href="#" style="margin-left: -5px;">IoT technology in agriculture: designing an intelligent greenhouse</a> </div>
-
-<em>My role: Project Member</em>
+<em>Team: Maoxuan Yao, Yichen Luo</em>
 - Utilizing LoRa (Long Range) technology for wireless communication between sensors ensures lower power consumption. Development with TPYboardv102 includes configuring vital parameters such as temperature, moisture, and illumination intensity to enable real-time monitoring and transmission in the greenhouse.
 - Collaborating on the greenhouse model involves setting up various equipment for performance testing in labs. Conducting field surveys of nearby farms provides inspiration for designing a more intelligent and energy-efficient system.
 - Learning and documenting demand analyses and product descriptions for embedded temperature controllers involve drawing flowcharts. Adopting Unified Modeling Language (UML) enhances the description of system commands written in Python, improving user comprehension.

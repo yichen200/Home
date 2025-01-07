@@ -183,7 +183,7 @@ redirect_from:
 <div class="paper-item"> <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-53404-1_12.pdf" style="margin-left: -5px;">Plastic runway surface damage detection system with YOLO</a> </div>
 
 <em>My role: Project Leader</em>
-- Modify underlying algorithms by adopting traditional computer vision algorithms and pruning algorithms to improve the accuracy and speed of the recognition process.
+- Modify underlying algorithms by adopting traditional computer vision and pruning methods to improve recognition accuracy and speed.
 - Utilize Raspberry Pi 3B+ and a vehicle-mounted video camera for collecting picture information; also employ Wi-Fi, TCP Protocol, and Secure Shell (SSH) for communication between the upper computer and the lower computer.
 - For the front-end and back-end, I build the web page with Django and enable the picture uploading function through POST requests. The customer runs YOLOX to conduct tests and receives output on the client side. I also create the database with MySQL to support the front-end.
 </div>

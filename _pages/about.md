@@ -206,7 +206,7 @@ redirect_from:
 
 <!-- DEMO -->
 
-
+<div class='paper-box'></div>
 <div class="gif-container">
   <!-- 图片和文字说明 -->
   <div class="gif-item">
@@ -220,6 +220,8 @@ redirect_from:
     <p>Refers to a small robotic vehicle designed to follow a predefined path or line</p>
   </div>
 </div>
+
+<div class="paper-item"></div>
 
 
 

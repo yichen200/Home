@@ -205,21 +205,21 @@ redirect_from:
 
 
 <!-- DEMO -->
-<div class='paper-box'></div>
-<div class="gif-container">
-  <!-- 图片和文字说明 -->
-  <div class="gif-item">
-    <div class="gif-lable">Greenhouse</div>
-    <img src="proj_img/GreenHouse.gif" alt="GIF 1">
-    <p>Laboratory Environment</p>
-  </div>
-  <div class="gif-item">
-    <div class="gif-lable">Line-Following Robot Car</div>
-    <img src="proj_img/car.gif" alt="GIF 2">
-    <p>Refers to a small robotic vehicle designed to follow a predefined path or line</p>
+<div class='paper-box'>
+  <div class="gif-container">
+    <!-- 图片和文字说明 -->
+    <div class="gif-item">
+      <div class="gif-lable">Greenhouse</div>
+      <img src="proj_img/GreenHouse.gif" alt="GIF 1">
+      <p>Laboratory Environment</p>
+    </div>
+    <div class="gif-item">
+      <div class="gif-lable">Line-Following Robot Car</div>
+      <img src="proj_img/car.gif" alt="GIF 2">
+      <p>Refers to a small robotic vehicle designed to follow a predefined path or line</p>
+    </div>
   </div>
 </div>
-
 
 
 

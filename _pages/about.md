@@ -232,12 +232,12 @@ redirect_from:
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">💻 Internships </span>
 
 **2022.06 - 2022.11, <a href="https://www.thecarlab.org/" target="_blank" style="color: #35705D; text-decoration: underline;">The CAR Lab</a>, Newark, DE, USA** 
-Research Intern | The CAR Lab
+Research Intern | The CAR Lab <br>
 Mentor: <a href="https://www.weisongshi.org/" target="_blank" style="color: #35705D; text-decoration: underline;">Weisong Shi</a>
 <em>My role</em>: Develop a software over-the-air (OTA) update framework for heterogeneous software-defined vehicles (SDVs), leveraging a robotic vehicle and an industry-grade roadside unit (RSU) for efficient deployment and management.
 
 **2022.06 - 2022.11, <a href="https://www.bayer.com.cn/en/" target="_blank" style="color: #35705D; text-decoration: underline;">Bayer Consumer Health</a>, Shanghai, China** 
-Computer Vision Intern | Digital Transformation and IT Department
+Algorithm Engineer Intern | Digital Transformation and IT Department <br>
 Manager:  <a href="fisher.jia@bayer.com" target="_blank" style="color: #35705D; text-decoration: underline;">Fisher Jia</a>
 <em>My role</em>:
 - Analyze e-commerce market share, applying basic methods to study various Chinese e-commerce brands. Collect data through a crawler, perform data analysis, and discuss findings with the Department of Marketing.

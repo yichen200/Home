@@ -181,7 +181,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-item"> <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-53404-1_12.pdf" style="margin-left: -5px;">Plastic runway surface damage detection system with YOLO</a> </div>
-<em>Team: Shuaidi Shan, Xinlei Wang, Yichen Luo</em>
+<em>Team: Shuaidi Shan, Xinlei Wang, Yichen Luo</em><br>
 <em>My role: Project Leader</em>
 - Utilize Raspberry Pi 3B+ and a vehicle-mounted video camera for collecting picture information; also employ Wi-Fi, TCP Protocol, and Secure Shell (SSH) for communication between the upper computer and the lower computer.
 - For the front-end and back-end, I build the web page with Django and enable the picture uploading function through POST requests. The customer runs YOLOX to conduct tests and receives output on the client side. I also create the database with MySQL to support the front-end.
@@ -205,7 +205,7 @@ redirect_from:
 
 <!-- DEMO -->
 <h2 style="font-size: 20px; font-family: Arial, sans-serif;">🎥DEMO</h2>
-<div class='paper-box'>
+<div class="paper-box" style="position: relative; top: -10px;">
   <div class="gif-container">
     <!-- 图片和文字说明 -->
     <div class="gif-item">

@@ -207,3 +207,32 @@ h1:before, .anchor:before {
     max-width: 100%; /* 描述最大宽度与图片对齐 */
     overflow-wrap: break-word; /* 确保长文字不会溢出 */
 }
+
+/* Intern Part */
+.intern-body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+.intern-left-align {
+    text-align: left;
+    color: #35705D;
+    text-decoration: underline;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.intern-right-align {
+    float: right;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.intern-clearfix {
+    clear: both;
+}
+
+.intern-list {
+    margin-left: 20px;
+}

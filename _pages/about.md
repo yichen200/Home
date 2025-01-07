@@ -191,12 +191,12 @@ redirect_from:
 
 
 <!-- Greenhouse -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 Fall - 2023 Spring</div><img src='proj_img/plastic-sys.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 Fall - 2023 Spring</div><img src='proj_img/Greenhouse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-item"> <a href="#" style="margin-left: -5px;">IoT technology in agriculture: designing an intelligent greenhouse</a> </div>
 
-<em>My role: Project Leader</em>
+<em>My role: Project Member</em>
 - Utilizing LoRa (Long Range) technology for wireless communication between sensors ensures lower power consumption. Development with TPYboardv102 includes configuring vital parameters such as temperature, moisture, and illumination intensity to enable real-time monitoring and transmission in the greenhouse.
 - Collaborating on the greenhouse model involves setting up various equipment for performance testing in labs. Conducting field surveys of nearby farms provides inspiration for designing a more intelligent and energy-efficient system.
 - Learning and documenting demand analyses and product descriptions for embedded temperature controllers involve drawing flowcharts. Adopting Unified Modeling Language (UML) enhances the description of system commands written in Python, improving user comprehension.

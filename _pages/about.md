@@ -205,23 +205,23 @@ redirect_from:
 
 
 <!-- DEMO -->
-<div class='paper-box'><div class="badge">GreenHouse</div>
 
-  <div class="gif-container">
-    <!-- 图片和文字说明 -->
-    <div class="gif-item">
-      <img src="proj_img/GreenHouse.gif" alt="GIF 1">
-      <p>Laboratory Environment</p>
-    </div>
-    <div class="badge">CAR</div>
+
+<div class="gif-container">
+  <!-- 图片和文字说明 -->
+  <div class="gif-item">
+    <img src="proj_img/GreenHouse.gif" alt="GIF 1">
+    <p>Laboratory Environment</p>
+  </div>
+  <div class="badge">CAR</div>
     <div class="gif-item">
       <img src="proj_img/car.gif" alt="GIF 2">
       <p>Line-Following Robot Car</p>
     </div>
   </div>
 
-</div>
-</div>
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

@@ -179,7 +179,7 @@ h1:before, .anchor:before {
 }
 
 /* 图片样式 */
-  .gif-item img {
+.gif-item img {
     max-width: 300px; /* 控制图片宽度 */
     height: auto; /* 保持图片比例 */
     border-radius: 8px; /* 可选：圆角图片 */
@@ -187,7 +187,7 @@ h1:before, .anchor:before {
 }
 
 /* Badge 样式 */
-.lable {
+.label {
     padding-left: 1rem;
     padding-right: 1rem;
     position: absolute;

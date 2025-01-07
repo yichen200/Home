@@ -205,7 +205,6 @@ redirect_from:
 
 
 <!-- DEMO -->
-
 <div class='paper-box'></div>
 <div class="gif-container">
   <!-- 图片和文字说明 -->
@@ -221,7 +220,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="paper-item"></div>
+
 
 
 

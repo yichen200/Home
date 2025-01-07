@@ -48,29 +48,29 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0;
-    font-family: Arial, sans-serif; /* 设置整体字体为 Arial */
+    font-family: Arial, sans-serif;
 
     .paper-box-image {
         justify-content: center;
         display: flex;
         width: 100%;
-        height: auto; /* 设置高度自适应 */
+        height: auto;
         order: 2;
 
         img {
             max-width: 400px;
-            max-height: 100%; /* 确保图片不会超出容器 */
-            width: 100%; /* 保持图片宽度自适应 */
-            height: auto; /* 保持图片高度比例 */
+            max-height: 100%;
+            width: 100%;
+            height: auto;
             box-shadow: 3px 3px 6px #888;
-            object-fit: cover; /* 避免图片失真 */
+            object-fit: cover;
         }
     }
 
     .paper-box-text {
         max-width: 100%;
         order: 1;
-        font-family: Arial, sans-serif; /* 设置整体字体为 Arial */
+        font-family: Arial, sans-serif;
     }
 
     @include breakpoint($medium) {
@@ -78,7 +78,7 @@
             justify-content: left;
             min-width: 200px;
             max-width: 40%;
-            height: auto; /* 确保高度自适应 */
+            height: auto;
             order: 1;
         }
 
@@ -87,7 +87,7 @@
             padding-left: 2em;
             max-width: 60%;
             order: 2;
-            font-family: Arial, sans-serif; /* 设置整体字体为 Arial */
+            font-family: Arial, sans-serif;
         }
     }
 }
@@ -121,21 +121,21 @@ h1:before, .anchor:before {
 .paper-list{
     display: flex;
     flex-direction: column;
-    font-family: Arial, sans-serif; /* 使用 Arial 字体 */
+    font-family: Arial, sans-serif;
     width: 100%;
 }
 .paper-item{
     border-top: #33333321 solid 1px;
     padding-top: 10px;
-    font-family: Arial, sans-serif; /* 使用 Arial 字体 */
+    font-family: Arial, sans-serif;
     display: flex;
     flex-direction: row;
 }
 .date {
     width: 15%;
     padding-left: 10px;
-    font-family: Arial, sans-serif; /* 使用 Arial 字体 */
-    font-size: 22px; /* 设置字体大小为 18px */
+    font-family: Arial, sans-serif;
+    font-size: 22px;
 }
 .pap{
     width: 100%;
@@ -143,20 +143,49 @@ h1:before, .anchor:before {
 .paper-item p{
     font-weight: bold;
     font-size: small;
-    font-family: Arial, sans-serif; /* 使用 Arial 字体 */
+    font-family: Arial, sans-serif;
 }
 .paper-item a{
     color: #35705D;
-    text-decoration: none; /* 取消下划线 */
-    font-family: Arial, sans-serif; /* 使用 Arial 字体 */
+    text-decoration: none;
+    font-family: Arial, sans-serif;
     font-size: 16px;
 }
 .paper-item a::before{
     content: url('/static/PDF1.svg');
-    vertical-align: middle; /* 水平对齐 */
-     margin-right: 5px; /* 右边距 */
+    vertical-align: middle;
+     margin-right: 5px;
 }
 .paper-item a:hover{
     color: #29588a;
-    text-decoration: underline; /* 下划线 */
+    text-decoration: underline;
+}
+
+/*demo*/
+
+.gif-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.gif-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.gif-item img {
+    max-width: 150px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+.gif-item p {
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #333;
 }

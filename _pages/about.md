@@ -213,12 +213,11 @@ redirect_from:
     <img src="proj_img/GreenHouse.gif" alt="GIF 1">
     <p>Laboratory Environment</p>
   </div>
-  <div class="badge">CAR</div>
-    <div class="gif-item">
-      <img src="proj_img/car.gif" alt="GIF 2">
-      <p>Line-Following Robot Car</p>
-    </div>
+  <div class="gif-item">
+    <img src="proj_img/car.gif" alt="GIF 2">
+    <p>Line-Following Robot Car</p>
   </div>
+</div>
 
 
 

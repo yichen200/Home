@@ -183,6 +183,19 @@ h1:before, .anchor:before {
     box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
 }
 
+.gif-badge {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    top: 10px; /* 调整 badge 离图片顶部的距离 */
+    left: 10px; /* 调整 badge 离图片左边的距离 */
+    color: white;
+    background-color: #165740;
+    font-size: .8em;
+    border-radius: 5px; /* 可选：使 badge 圆角 */
+    z-index: 1; /* 确保 badge 在图片之上 */
+  }
+
 .gif-item p {
     margin-top: 10px;
     font-family: Arial, sans-serif;

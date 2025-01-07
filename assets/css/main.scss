@@ -162,48 +162,48 @@ h1:before, .anchor:before {
 }
 
 /*demo*/
+/* 父容器样式 */
 .gif-container {
     display: flex;
-    justify-content: flex-start; /* 左对齐 */
-    align-items: center; /* 图片和文字在容器中居中 */
-    gap: 20px; /* 每个 gif-item 的间距 */
+    justify-content: center; /* 居中所有内容 */
+    gap: 20px; /* 图片间距 */
+    flex-wrap: wrap; /* 支持多行换行 */
+    padding: 20px 0;
 }
 
-  /* 子容器样式 */
+/* 子容器样式 */
 .gif-item {
     display: flex;
-    flex-direction: column; /* 图片和文字垂直排列 */
-    align-items: center; /* 图片和文字居中对齐 */
-    text-align: center; /* 文字居中 */
-    position: relative; /* 确保 badge 可以正确定位 */
+    flex-direction: column; /* 垂直排列：标签 -> 图片 -> 描述 */
+    align-items: center; /* 垂直居中 */
+    text-align: center; /* 文本居中 */
+    max-width: 300px; /* 容器最大宽度，与图片对齐 */
+    word-wrap: break-word; /* 确保文字自动换行 */
 }
 
 /* 图片样式 */
 .gif-item img {
-    max-width: 300px; /* 控制图片宽度 */
-    height: auto; /* 保持图片比例 */
-    border-radius: 8px; /* 可选：圆角图片 */
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); /* 可选：图片阴影 */
+    width: 100%; /* 图片宽度填充容器 */
+    max-width: 300px; /* 图片最大宽度 */
+    height: auto; /* 高度按比例调整 */
+    border-radius: 8px; /* 圆角效果 */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); /* 阴影效果 */
 }
 
-/* Badge 样式 */
+/* 标签样式 */
 .label {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    top: 10px; /* 距离图片顶部 10px */
-    left: 10px; /* 距离图片左边 10px */
-    color: white;
-    background-color: #165740;
-    font-size: .8em;
-    border-radius: 5px; /* 可选：圆角 badge */
-    z-index: 1; /* 确保 badge 显示在图片上方 */
+    font-weight: bold; /* 加粗标签文字 */
+    font-size: 14px; /* 标签字体大小 */
+    margin-bottom: 10px; /* 标签与图片间距 */
+    color: #333;
 }
 
-/* 文字说明样式 */
-.gif-item p {
-    margin-top: 10px; /* 图片和文字之间的间距 */
-    font-family: Arial, sans-serif; /* 文字字体 */
-    font-size: 14px; /* 文字大小 */
-    color: #333; /* 文字颜色 */
+/* 描述文字样式 */
+.description {
+    margin-top: 10px; /* 图片与文字间距 */
+    font-family: Arial, sans-serif; /* 描述字体 */
+    font-size: 14px; /* 描述文字大小 */
+    color: #333;
+    max-width: 100%; /* 描述最大宽度与图片对齐 */
+    overflow-wrap: break-word; /* 确保长文字不会溢出 */
 }

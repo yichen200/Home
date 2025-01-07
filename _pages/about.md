@@ -216,7 +216,7 @@ redirect_from:
     <div class="gif-item">
       <div class="label">Line-Following Robot Car</div>
       <img src="proj_img/car.gif" alt="GIF 2">
-      <p>The line-following robot car leverages infrared sensors to analyze and interpret the path, enabling a preliminary identification of the designated route.</p>
+      <p>The vehicle leverages infrared sensors to analyze and interpret the path, enabling a preliminary identification of the designated route.</p>
     </div>
   </div>
 </div>

@@ -315,7 +315,7 @@ redirect_from:
 
 <br>
 <span class='anchor' id='services-activities'></span>
-# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">💬 Services and Activities</span>
+# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">🛎️ Services and Activities</span>
 
 # <span style="font-size: 20px;">Community and Journal Reviewers</span>
 <ul style="font-family: Arial, sans-serif;">
@@ -355,9 +355,9 @@ redirect_from:
 
 
 
-
-
-
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
+# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">💬 Services and Activities</span>
+# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">🛎 Services and Activities</span>

@@ -229,28 +229,37 @@ redirect_from:
 
 
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">💻 Internships </span>
+   <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
+        <div style="margin-bottom: 10px;">
+            <div style="text-align: left; color: #35705D; text-decoration: underline; font-size: 1.1em; font-weight: bold;">
+                2022.06 - 2022.11, 
+                <a href="https://www.thecarlab.org/" target="_blank" style="color: #35705D; text-decoration: underline;">The CAR Lab</a>, Newark, DE, USA
+            </div>
+            <div style="text-align: right; font-size: 1.1em; font-weight: bold;">
+                Research Intern | The CAR Lab
+            </div>
+            <div style="clear: both;"></div>
+        </div>
+        <div style="margin-bottom: 10px;">
+            Mentor: 
+            <a href="https://www.weisongshi.org/" target="_blank" style="color: #35705D; text-decoration: underline;">Weisong Shi</a>
+        </div>
+        <div style="font-style: italic; font-size: 1em;">
+            <strong>My role</strong>: Develop a software over-the-air (OTA) update framework for heterogeneous software-defined vehicles (SDVs), leveraging a robotic vehicle and an industry-grade roadside unit (RSU) for efficient deployment and management.
+        </div>
+    </div>
 
 
-
-**2022.06 - 2022.11, <a href="https://www.thecarlab.org/" target="_blank" style="color: #35705D; text-decoration: underline;">The CAR Lab</a>, Newark, DE, USA** 
+**2022.06 - 2022.11, <a href="https://www.thecarlab.org/" target="_blank" style="color: #35705D; text-decoration: underline;">The CAR Lab</a>, Newark, DE, USA** <br>
 Research Intern | The CAR Lab <br>
 Mentor: <a href="https://www.weisongshi.org/" target="_blank" style="color: #35705D; text-decoration: underline;">Weisong Shi</a>
 <em>My role</em>: Develop a software over-the-air (OTA) update framework for heterogeneous software-defined vehicles (SDVs), leveraging a robotic vehicle and an industry-grade roadside unit (RSU) for efficient deployment and management.
 
-<body class="intern-body">
-    <div>
-        <span class="intern-left-align">
-            2022.06 - 2022.11, <a href="https://www.bayer.com.cn/en/" target="_blank" style="color: #35705D; text-decoration: underline;">Bayer Consumer Health</a>, Shanghai, China
-        </span>
-        <span class="intern-right-align">
-            Algorithm Engineer Intern | Digital Transformation and IT Department
-        </span>
-        <div class="intern-clearfix"></div>
-    </div>
-  </body>
 
  <br>
-Manager:  <a href="fisher.jia@bayer.com" target="_blank" style="color: #35705D; text-decoration: underline;">Fisher Jia</a> <br>
+**2022.06 - 2022.11, <a href="https://www.bayer.com.cn/en/" target="_blank" style="color: #35705D; text-decoration: underline;">Bayer Consumer Health</a>, Shanghai, China**<br>
+Algorithm Engineer Intern | Digital Transformation and IT Department
+Manager: <a href="fisher.jia@bayer.com" target="_blank" style="color: #35705D; text-decoration: underline;">Fisher Jia</a> <br>
 <em>My role</em>:
 - Analyze e-commerce market share, applying basic methods to study various Chinese e-commerce brands. Collect data through a crawler, perform data analysis, and discuss findings with the Department of Marketing.
 - Investigate the root causes of failures in an OCR technology designed for small ticket image recognition. Serve as the project manager to improve and test the system's design.

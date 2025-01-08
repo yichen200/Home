@@ -5,8 +5,8 @@
 .masthead {
   position: sticky;
   top: 0;
-  background-color: #FAF8EC;
-  border-bottom: 1px solid order-color$b;
+  background-color: #E1DAC0;
+  border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
@@ -54,7 +54,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  background-color: #FAF8EC;
+  background-color: #E1DAC0;
   margin-left: 10px;
   font-family: Arial, sans-serif;
   font-size: 14px;

@@ -229,15 +229,15 @@ redirect_from:
 
 
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">💻 Internships </span>
-  <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
+  <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 16px;">
         <div style="margin-bottom: 10px;">
-            <div style="text-align: left;text-decoration: none; font-size: 1.1em;">
+            <div style="text-align: left;text-decoration: none; font-size: 1.1em;;">
                 2022.06 - 2022.11, 
                 <a href="https://www.thecarlab.org/" target="_blank" style="color: #35705D; text-decoration: underline;">The CAR Lab</a>, Newark, DE, USA
             </div>
             <div style="display: flex; justify-content: space-between; align-items: center; font-size: 1.1em;">
-                <span>Research Intern | The CAR Lab</span>
                 <span>Mentor: <a href="https://www.weisongshi.org/" target="_blank" style="color: #35705D; text-decoration: underline;">Weisong Shi</a></span>
+                <span>Research Intern | The CAR Lab</span>
             </div>
         </div>
         <div style="font-style: italic; font-size: 1em;">

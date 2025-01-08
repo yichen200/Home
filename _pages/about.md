@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='short-bio'></span>
+<span class='anchor' id='about-me'></span>
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">⭐ Short Bio</span>
 <p style="font-family: Arial, sans-serif;">
     Hello! I am Yichen Luo, a Ph.D. student in Computer Science at 
@@ -39,6 +39,7 @@ redirect_from:
 
 
 <br>
+<span class='anchor' id='publications'></span>
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">📜 Publications </span>
 
 
@@ -130,6 +131,7 @@ redirect_from:
 
 
 <br>
+<span class='anchor' id='project'></span>
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">📚 Research Project</span>
 
 <h2 style="font-size: 24px; font-family: Arial, sans-serif;">🕰️ PhD Journey</h2>

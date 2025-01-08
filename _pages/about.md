@@ -330,7 +330,7 @@ redirect_from:
 <span class='anchor' id='service'></span>
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">💬 Services & Activities</span>
 <p style="font-family: Arial, sans-serif;">- [S1] Graduate Chaperone to guide a team of 14 undergraduate female students to the <a href="https://ghc.anitab.org/" target="_blank" style=" color: #35705D; text-decoration: none;">Grace Hopper Celebration of Women in Computing (GHC)</a>, Philadelphia, PA, USA, 2024.</p>
-<p style="font-family: Arial, sans-serif;">- [A1] <a href="https://capwic.org/" target="_blank" style="color: #1a0dab; text-decoration: none;">Capital Women in Computing (CAPWIC)</a> conference, VA, USA, 2024.</p>
+<p style="font-family: Arial, sans-serif;">- [A1] <a href="https://capwic.org/" target="_blank" style="color: #35705D; text-decoration: none;">Capital Women in Computing (CAPWIC)</a> conference, VA, USA, 2024.</p>
 
 
 

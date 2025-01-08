@@ -189,9 +189,7 @@ redirect_from:
 - Lit_Cite is an AI-driven software tool utilizing Retriever-Augmented Generation (RAG) technology to streamline the citation process for researchers.
 - Users upload a PDF to create a library of potential citations (10-20), with the software extracting key information. Highlighted sentences are matched to relevant citations using a word vector algorithm, which is then automatically added.
 - The program won a Third Prize in China's First National Large Language Model Innovation and Creative Application Competition. 
-  <div class="pap">
     <a href="https://kororinpas.github.io/awards/award-1/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">🏆 [Award] </a>
-  </div>
 </div>
 </div>
 

@@ -272,7 +272,7 @@ redirect_from:
         <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 16px">
             <span>Manager: <a href="fisher.jia@bayer.com" target="_blank" style="color: #35705D; text-decoration: underline;">Fisher Jia</a></span>
         </div>
-        <div style="font-size: 14px;">
+        <div style="font-size: 14px; margin-left: 5px;">
           <em>My role</em>:<br>
             <li> 
               Analyze e-commerce market share, applying basic methods to study various Chinese e-commerce brands. Collect data through a crawler, perform data analysis, and discuss findings with the Department of Marketing.
@@ -294,13 +294,13 @@ redirect_from:
                 2022.06 - 2022.11, 
               <a href="https://www.iquanzhan.com/about.html" target="_blank" style="color: #35705D; text-decoration: underline;">Fullstack Intelligence Co., Ltd</a>, SH, CN
             </span>     
-            <span>Engineer | Smart City Infrastructure Solution </span>
+            <span>Algorithm Engineer | Smart City Infrastructure Solution </span>
         </div>
         <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 16px">
             <span>Manager: <a href="fahedxy@gmail.com" target="_blank" style="color: #35705D; text-decoration: underline;">Hao Chen</a></span><br>
         </div>
-        <div style="font-size: 14px;">
-          <em>Goal</em>: The system enables real-time video collection and analysis of vehicles on the road, providing accurate and timely insights into traffic conditions.
+        <div style="font-size: 14px; margin-left: 5px;">
+          <em>Goal</em>: The system enables real-time video collection and analysis of vehicles on the road, providing accurate and timely insights into traffic conditions.<br>
           <em>My role</em>:<br>
           <li> 
             Real-time video monitoring from buses and taxis facilitates traffic road inspections through the integration of accessed video data.

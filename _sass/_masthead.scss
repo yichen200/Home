@@ -5,7 +5,7 @@
 .masthead {
   position: sticky;
   top: 0;
-  background-color: #E1DAC0;
+  background-color: #EEE8D8;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -40,6 +40,7 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+    background-color: #EEE8D8;
   }
 }
 
@@ -55,10 +56,10 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  background-color: #E1DAC0;
-  margin-left: 10px;
+  background-color: #EEE8D8;
+  margin-left: 15px;
   font-family: Arial, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   color: #35705D;
 
 

@@ -184,7 +184,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 <div class="paper-item"> <a href="https://kororinpas.github.io/talks/programme_3" style="margin-left: -5px;">Lit-Cite</a> </div>
-<span>Manager: <a href="https://kororinpas.github.io/" target="_blank" style="color: #35705D; text-decoration: underline;">Zekai Shen</a></span>
+<span>Manager: <a href="https://kororinpas.github.io/" target="_blank" style="color: #35705D; text-decoration: underline;">Zekai Shen</a></span><br>
 <em>My role: Project Member</em>
 - Lit_Cite is an AI-driven software tool utilizing Retriever-Augmented Generation (RAG) technology to streamline the citation process for researchers.
 - Users upload a PDF to create a library of potential citations (10-20), with the software extracting key information. Highlighted sentences are matched to relevant citations using a word vector algorithm, which is then automatically added.

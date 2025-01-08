@@ -253,7 +253,7 @@ redirect_from:
                 2022.06 - 2022.11, 
               <a href="https://www.bayer.com.cn/en/" target="_blank" style="color: #35705D; text-decoration: underline;">Bayer Consumer Health</a>, SH, CN
             </span>
-            <span>Algorithm Engineer Intern | Digital Transformation and IT Department</span>
+            <span>Algorithm Engineer Intern | Digital Transformation & IT Department</span>
         </div>
         <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 1.1em;">
             <span>Manager: <a href="fisher.jia@bayer.com" target="_blank" style="color: #35705D; text-decoration: underline;">Fisher Jia</a></span>

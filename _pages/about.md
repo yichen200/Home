@@ -176,9 +176,7 @@ redirect_from:
 
 <h2 style="font-size: 24px; font-family: Arial, sans-serif;">🌱 Undergraduate Journey</h2>
 
-<!-- Plastic Runway-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 Fall - 2023 Spring</div><img src='proj_img/plastic-sys.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 
 
 <!-- Lit-->
@@ -189,17 +187,22 @@ redirect_from:
 <span>Manager: <a href="https://kororinpas.github.io/" target="_blank" style="color: #35705D; text-decoration: underline;">Zekai Shen</a></span>
 <em>My role: Project Member</em>
 - Lit_Cite is an AI-driven software tool utilizing Retriever-Augmented Generation (RAG) technology to streamline the citation process for researchers.
-- Users upload a PDF to create a library of potential citations (10-20), with the software extracting key information. Highlighted sentences are matched to relevant citations using a word vector algorithm, which are then automatically added.
-- The program won a Third Prize in China's First National Large Language Model Innovation and Creative Application Competition. <a href="https://kororinpas.github.io/awards/award-1/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">🏆 [Award] </a>
+- Users upload a PDF to create a library of potential citations (10-20), with the software extracting key information. Highlighted sentences are matched to relevant citations using a word vector algorithm, which is then automatically added.
+- The program won a Third Prize in China's First National Large Language Model Innovation and Creative Application Competition. 
+  <div class="pap">
+    <a href="https://kororinpas.github.io/awards/award-1/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">🏆 [Award] </a>
+  </div>
 </div>
 </div>
 
-
+<!-- Plastic Runway-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 Fall - 2023 Spring</div><img src='proj_img/plastic-sys.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 <div class="paper-item"> <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-53404-1_12.pdf" style="margin-left: -5px;">Plastic Runway Surface Damage Detection System</a> </div>
 <em>Team: Shuaidi Shan, Xinlei Wang, Yichen Luo</em><br>
 <em>My role: Project Leader</em>
 - Utilize Raspberry Pi 3B+ and a vehicle-mounted video camera for collecting picture information; also employ Wi-Fi, TCP Protocol, and Secure Shell (SSH) for communication between the upper computer and the lower computer.
-- For the front-end and back-end, I build the web page with Django and enable the picture uploading function through POST requests. The customer runs YOLOX to conduct tests and receives output on the client side. I also create the database with MySQL to support the front-end.
+- For the front-end and back-end, I build the web page with Django and enable the picture uploading function through POST requests. The customer runs YOLOX to conduct tests and receives output from the client. I also create the database with MySQL to support the front-end.
 - Modify underlying algorithms by adopting traditional computer vision and pruning methods to improve recognition accuracy and speed.
 </div>
 </div>

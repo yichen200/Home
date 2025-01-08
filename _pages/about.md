@@ -275,7 +275,7 @@ redirect_from:
         <div style="font-size: 14px;">
           <em>My role</em>:<br>
         </div>
-          <div style="font-size: 14px; margin-left: 5px;">
+          <div style="font-size: 14px; margin-left: 10px;">
             <li> 
               Analyze e-commerce market share, applying basic methods to study various Chinese e-commerce brands. Collect data through a crawler, perform data analysis, and discuss findings with the Department of Marketing.
             </li>
@@ -305,7 +305,7 @@ redirect_from:
           <em>Goal</em>: The system enables real-time video collection and analysis of vehicles on the road, providing accurate and timely insights into traffic conditions.<br>
           <em>My role</em>:<br>
         </div>
-        <div style="font-size: 14px; margin-left: 5px;">
+        <div style="font-size: 14px; margin-left: 10px;">
           <li> 
             Real-time video monitoring from buses and taxis facilitates traffic road inspections through the integration of accessed video data.
           </li>

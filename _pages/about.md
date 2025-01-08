@@ -177,8 +177,6 @@ redirect_from:
 <h2 style="font-size: 24px; font-family: Arial, sans-serif;">🌱 Undergraduate Journey</h2>
 
 
-
-
 <!-- Lit-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 Summar</div><img src='proj_img/Lit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -187,7 +185,7 @@ redirect_from:
 <span>Manager: <a href="https://kororinpas.github.io/" target="_blank" style="color: #35705D; text-decoration: underline;">Zekai Shen</a></span><br>
 <em>My role: Project Member</em>
 - Lit_Cite is an AI-driven software tool utilizing Retriever-Augmented Generation (RAG) technology to streamline the citation process for researchers.
-- Users upload a PDF to create a library of potential citations (10-20), with the software extracting key information. Highlighted sentences are matched to relevant citations using a word vector algorithm, which is then automatically added.
+- Users upload a PDF to create a library of potential citations, with the software extracting key information. Highlighted sentences are matched to relevant citations using a word vector algorithm, which is then automatically added.
 - The program won a Third Prize in China's First National Large Language Model Innovation and Creative Application Competition. 
     <a href="https://kororinpas.github.io/awards/award-1/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">🏆 [Award] </a>
 </div>

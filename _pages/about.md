@@ -324,10 +324,16 @@ redirect_from:
 <p style="font-family: Arial, sans-serif;">- May 2022 - May 2023: Research Leader in Shanghai 2022 College Student Innovation Competition.</p>
 <p style="font-family: Arial, sans-serif;">- 2021: “MathorCup” National Mathematical Modeling Challenge for undergraduate.</p>
 <p style="font-family: Arial, sans-serif;">- May 2020 - May 2021: Research member in Shanghai 2020 College Student Innovation Competition.</p>
+<div><hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;"></div>
+
+<br>
+<span class='anchor' id='service'></span>
+# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">💬 Services & Activities</span>
+<p style="font-family: Arial, sans-serif;">- [S1] Graduate Chaperone to guide a team of 14 undergraduate female students to the <a href="https://ghc.anitab.org/" target="_blank" style=" color: #35705D; text-decoration: none;">Grace Hopper Celebration of Women in Computing (GHC)</a>, Philadelphia, PA, USA, 2024.</p>
+<p style="font-family: Arial, sans-serif;">- [A1] <a href="https://capwic.org/" target="_blank" style="color: #1a0dab; text-decoration: none;">Capital Women in Computing (CAPWIC)</a> conference, VA, USA, 2024.</p>
 
 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-

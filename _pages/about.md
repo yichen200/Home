@@ -229,20 +229,16 @@ redirect_from:
 
 
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">💻 Internships </span>
-   <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
+  <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
         <div style="margin-bottom: 10px;">
-            <div style="text-align: left; color: #35705D; text-decoration: underline; font-size: 1.1em; font-weight: bold;">
+            <div style="text-align: left;text-decoration: none; font-size: 1.1em;">
                 2022.06 - 2022.11, 
                 <a href="https://www.thecarlab.org/" target="_blank" style="color: #35705D; text-decoration: underline;">The CAR Lab</a>, Newark, DE, USA
             </div>
-            <div style="text-align: right; font-size: 1.1em; font-weight: bold;">
-                Research Intern | The CAR Lab
+            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 1.1em;">
+                <span>Research Intern | The CAR Lab</span>
+                <span>Mentor: <a href="https://www.weisongshi.org/" target="_blank" style="color: #35705D; text-decoration: underline;">Weisong Shi</a></span>
             </div>
-            <div style="clear: both;"></div>
-        </div>
-        <div style="margin-bottom: 10px;">
-            Mentor: 
-            <a href="https://www.weisongshi.org/" target="_blank" style="color: #35705D; text-decoration: underline;">Weisong Shi</a>
         </div>
         <div style="font-style: italic; font-size: 1em;">
             <strong>My role</strong>: Develop a software over-the-air (OTA) update framework for heterogeneous software-defined vehicles (SDVs), leveraging a robotic vehicle and an industry-grade roadside unit (RSU) for efficient deployment and management.

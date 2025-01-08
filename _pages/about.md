@@ -275,7 +275,7 @@ redirect_from:
         <div style="font-size: 14px;">
           <em>My role</em>:<br>
         </div>
-          <div style="font-size: 14px; margin-left: 10px;">
+          <div style="font-size: 14px; margin-left: 15px;">
             <li> 
               Analyze e-commerce market share, applying basic methods to study various Chinese e-commerce brands. Collect data through a crawler, perform data analysis, and discuss findings with the Department of Marketing.
             </li>
@@ -293,7 +293,7 @@ redirect_from:
   <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 12px;">
         <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 16px;">
             <span>
-                2021.06 - 2022.08, 
+                2021.06 - 2021.08, 
               <a href="https://www.iquanzhan.com/about.html" target="_blank" style="color: #35705D; text-decoration: underline;">Fullstack Intelligence Co., Ltd</a>, SH, CN
             </span>     
             <span>Algorithm Engineer | Smart City Infrastructure Solution </span>
@@ -305,7 +305,7 @@ redirect_from:
           <em>Goal</em>: The system enables real-time video collection and analysis of vehicles on the road, providing accurate and timely insights into traffic conditions.<br>
           <em>My role</em>:<br>
         </div>
-        <div style="font-size: 14px; margin-left: 10px;">
+        <div style="font-size: 14px; margin-left: 15px;">
           <li> 
             Real-time video monitoring from buses and taxis facilitates traffic road inspections through the integration of accessed video data.
           </li>

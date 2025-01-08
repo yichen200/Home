@@ -18,17 +18,21 @@
     @include clearfix;
     padding: .5em;
     font-family: $sans-serif-narrow;
+    background-color: #EEE8D8;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
+      background-color: #EEE8D8;
     }
 
     nav {
       z-index: 10;
+      background-color: #EEE8D8;
     }
 
     a {
       text-decoration: none;
+      background-color: #EEE8D8;
     }
   }
 }

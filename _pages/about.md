@@ -228,7 +228,6 @@ redirect_from:
 </div>
 
 
-<br>
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">💻 Internships </span>
 
 
@@ -248,15 +247,16 @@ Mentor: <a href="https://www.weisongshi.org/" target="_blank" style="color: #357
         </span>
         <div class="intern-clearfix"></div>
     </div>
+  </body>
+
  <br>
-Manager:  <a href="fisher.jia@bayer.com" target="_blank" style="color: #35705D; text-decoration: underline;">Fisher Jia</a>
+Manager:  <a href="fisher.jia@bayer.com" target="_blank" style="color: #35705D; text-decoration: underline;">Fisher Jia</a> <br>
 <em>My role</em>:
 - Analyze e-commerce market share, applying basic methods to study various Chinese e-commerce brands. Collect data through a crawler, perform data analysis, and discuss findings with the Department of Marketing.
 - Investigate the root causes of failures in an OCR technology designed for small ticket image recognition. Serve as the project manager to improve and test the system's design.
 - Support the company's training department by: i) Designing a survey system, including creating survey questionnaires, web pages, QR codes, and conducting final testing; ii) Using the Python pandas package to clean survey data collected by colleagues; iii) Providing technical support for live broadcasts, such as testing the live video environment in the initial stages and monitoring the live broadcast. Additionally, prepare a final technical report.
 
   
-</body>
 
 
 

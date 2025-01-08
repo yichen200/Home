@@ -49,12 +49,12 @@
 }
 
 .masthead__menu-home-item {
-  display: none; /* 默认隐藏 */
-  background-color: #EEE8D8; /* 默认背景色 */
+  display: none;
+  background-color: #EEE8D8; 
 
   @include breakpoint($medium) {
-    display: block; /* 在中等屏幕及以上显示 */
-    background-color: #EEE8D8; /* 适配中等屏幕的背景色 */
+    display: block; 
+    background-color: #EEE8D8;
   }
 }
 

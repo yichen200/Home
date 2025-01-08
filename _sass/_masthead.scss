@@ -12,7 +12,7 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
-  transform: translateX(10px);
+  transform: translateX(20px);
 
   &__inner-wrap {
     @include container;
@@ -55,9 +55,11 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  font-family: Arial, sans-serif; /* 设置字体为 Arial */
-  font-size: 14px; /* 设置字体大小为 14px */
-  color: #35705D; /* 设置字体颜色为 #35705D */
+  background-color: #FAF8EC;
+  margin-left: 10px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #35705D;
 }
 
   &--lg {

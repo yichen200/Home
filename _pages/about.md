@@ -229,7 +229,7 @@ redirect_from:
 
 
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">💻 Internships </span>
-  <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 14px;">
+  <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 12px;">
         <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 1.1em;">
             <span>
                 2024.07 - 2024.08, 
@@ -244,15 +244,14 @@ redirect_from:
             <em>My role</em>: Develop a software over-the-air (OTA) update framework for heterogeneous software-defined vehicles (SDVs), leveraging a robotic vehicle and an industry-grade roadside unit (RSU) for efficient deployment and management.
         </div>
     </div>
+<div><hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;"></div>
 
 
-
- <br>
-  <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 14px;">
+  <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 12px;">
         <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 1.1em;">
             <span>
                 2022.06 - 2022.11, 
-              <a href="https://www.bayer.com.cn/en/" target="_blank" style="color: #35705D; text-decoration: underline;">Bayer Consumer Health</a>, Shanghai, China
+              <a href="https://www.bayer.com.cn/en/" target="_blank" style="color: #35705D; text-decoration: underline;">Bayer Consumer Health</a>, SH, CN
             </span>
             <span>Algorithm Engineer Intern | Digital Transformation and IT Department</span>
         </div>

@@ -131,7 +131,7 @@ redirect_from:
 
 
 <br>
-<span class='anchor' id='project'></span>
+<span class='anchor' id='research-project'></span>
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">📚 Research Project</span>
 
 <h2 style="font-size: 24px; font-family: Arial, sans-serif;">🕰️ PhD Journey</h2>
@@ -244,7 +244,7 @@ redirect_from:
   </div>
 </div>
 
-
+<span class='anchor' id='internships'></span>
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">💻 Internships </span>
   <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 12px;">
         <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 16px;">

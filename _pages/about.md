@@ -115,7 +115,7 @@ redirect_from:
       <div class="pap">
         <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-53404-1_12.pdf">Multiple Color Feature and Contextual Attention Mechanism Based on YOLOX </a> <br>
         <p style="margin-left: 6px; font-family: Arial, sans-serif; font-size: 16px; font-weight: normal;">
-          Shuaidi Shan, Pengpeng Zhang, Xinlei Wang, Shangxian Teng, and <b>Yichen Luo</b>.
+          Shuaidi Shan, Pengpeng Zhang, Xinlei Wang, Shangxian Teng, and <b>Yichen Luo</b>.<br>
           The 6th EAI International Conference on 6G for Future Wireless Networks, Shanghai, China.</p>
         <p style="margin-left: 4px; font-weight: normal; margin-top: -5px;">
           <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-53404-1_12.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[PDF] </a>
@@ -312,6 +312,7 @@ redirect_from:
 
 
 <br>
+<span class='anchor' id='honors-awards'></span>
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

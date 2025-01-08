@@ -45,12 +45,14 @@
 }
 
 .masthead__menu-home-item {
-  @include breakpoint($medium) {
-    display: block !important;
-  }
-  display: none !important;
-}
+  display: none; /* 默认隐藏 */
+  background-color: #EEE8D8; /* 默认背景色 */
 
+  @include breakpoint($medium) {
+    display: block; /* 在中等屏幕及以上显示 */
+    background-color: #EEE8D8; /* 适配中等屏幕的背景色 */
+  }
+}
 
 .masthead__menu-item {
   display: block;

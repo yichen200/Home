@@ -315,19 +315,19 @@ redirect_from:
 
 <br>
 <span class='anchor' id='services-activities'></span>
-# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">💬 Services & Activities</span>
+# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">💬 Services and Activities</span>
 
-# <span style="font-size: 22px;">Community and Journal Reviewers</span>
+# <span style="font-size: 20px;">Community and Journal Reviewers</span>
 <ul style="font-family: Arial, sans-serif;">
   <li>The 33rd International Conference on Computer Communications and Networks (ICCCN 2024)</a></li>
 </ul>
 
-# <span style="font-size: 22px;">University Service</span>
+# <span style="font-size: 20px;">University Service</span>
 <ul style="font-family: Arial, sans-serif;">
   <li>Graduate Chaperone to guide a team of 14 undergraduate female students to the Grace Hopper Celebration of Women in Computing (<a href="https://ghc.anitab.org/" target="_blank" style=" color: #35705D; text-decoration: none;">GHC</a>), Philadelphia, PA, USA, 2024.</li>
 </ul>
 
-# <span style="font-size: 22px;">Activities</span>
+# <span style="font-size: 20px;">Activities</span>
 <ul style="font-family: Arial, sans-serif;">
   <li>TribeCTF – W&M’s first Capture-the-Flag (<a href="https://tribectf.cs.wm.edu/" target="_blank" style="color: #35705D; text-decoration: none;">CTF</a>), Williamsburg, VA, USA.</li>
   <li>Capital Women in Computing (<a href="https://capwic.org/" target="_blank" style="color: #35705D; text-decoration: none;">CAPWIC</a>) conference, VA, USA, 2024.</li>
@@ -335,7 +335,7 @@ redirect_from:
 
 <br>
 <span class='anchor' id='honors-awards'></span>
-# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">🎖 Honors and Awards</span>
+<span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">🎖 Honors and Awards</span>
 
 <p style="font-family: Arial, sans-serif;">- Dec 2024: NSF ACM/IEEE Symposium on Edge Computing (SEC) Student Travel Grant.</p>
 <p style="font-family: Arial, sans-serif;">- Oct 2024: International Student Opportunity Scholarship at William & Mary.</p>

@@ -1,3 +1,54 @@
+<style>
+  .masthead {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* 可选: 设置背景颜色 */
+  }
+
+  .masthead__inner-wrap {
+    height: 80px; /* 增加高度 */
+    display: flex;
+    align-items: center;
+  }
+
+  .masthead__menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .greedy-nav {
+    display: flex;
+    align-items: center;
+    height: 100%;
+  }
+
+  .visible-links {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .masthead__menu-item {
+    padding: 0 15px; /* 增加左右间距 */
+    line-height: 80px; /* 确保文本垂直居中 */
+  }
+
+  .masthead__menu-item a {
+    text-decoration: none;
+    color: #333;
+    font-size: 16px;
+  }
+
+  .navicon {
+    height: 30px;
+    width: 30px;
+    background-color: #000; /* 可选: 添加一个简单图标 */
+  }
+</style>
+
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">

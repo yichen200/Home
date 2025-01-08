@@ -310,6 +310,25 @@ redirect_from:
     </div>
 <div><hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;"></div>
 
+<br>
+<span class='anchor' id='service'></span>
+# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">💬 Services & Activities</span>
+
+# <span style="font-size: 22px;">Community and Journal Reviewers</span>
+<ul style="font-family: Arial, sans-serif;">
+  <li>The 33rd International Conference on Computer Communications and Networks (ICCCN 2024)</a></li>
+</ul>
+
+# <span style="font-size: 22px;">University Service</span>
+<ul style="font-family: Arial, sans-serif;">
+  <li>Graduate Chaperone to guide a team of 14 undergraduate female students to the Grace Hopper Celebration of Women in Computing (<a href="https://ghc.anitab.org/" target="_blank" style=" color: #35705D; text-decoration: none;">GHC</a>), Philadelphia, PA, USA, 2024.</li>
+</ul>
+
+# <span style="font-size: 22px;">Activities</span>
+<ul style="font-family: Arial, sans-serif;">
+  <li>TribeCTF – W&M’s first Capture-the-Flag (<a href="https://tribectf.cs.wm.edu/" target="_blank" style="color: #35705D; text-decoration: none;">CTF</a>), Williamsburg, VA, USA.</li>
+  <li>Capital Women in Computing (<a href="https://capwic.org/" target="_blank" style="color: #35705D; text-decoration: none;">CAPWIC</a>) conference, VA, USA, 2024.</li>
+<div><hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;"></div>
 
 <br>
 <span class='anchor' id='honors-awards'></span>
@@ -326,12 +345,8 @@ redirect_from:
 <p style="font-family: Arial, sans-serif;">- May 2020 - May 2021: Research member in Shanghai 2020 College Student Innovation Competition.</p>
 <div><hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;"></div>
 
-<br>
-<span class='anchor' id='service'></span>
-# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">💬 Services & Activities</span>
-<p style="font-family: Arial, sans-serif;">- [S1]: Graduate Chaperone to guide a team of 14 undergraduate female students to the Grace Hopper Celebration of Women in Computing (<a href="https://ghc.anitab.org/" target="_blank" style=" color: #35705D; text-decoration: none;">GHC</a>), Philadelphia, PA, USA, 2024.</p>
-<p style="font-family: Arial, sans-serif;">- [A1]: TribeCTF – W&M’s first Capture-the-Flag (<a href="https://tribectf.cs.wm.edu/" target="_blank" style="color: #35705D; text-decoration: none;">CTF</a>), Williamsburg, VA, USA.</p>
-<p style="font-family: Arial, sans-serif;">- [A2] Capital Women in Computing (<a href="https://capwic.org/" target="_blank" style="color: #35705D; text-decoration: none;">CAPWIC</a>) conference, VA, USA, 2024.</p>
+
+
 
 
 

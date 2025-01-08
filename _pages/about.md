@@ -329,8 +329,9 @@ redirect_from:
 <br>
 <span class='anchor' id='service'></span>
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">💬 Services & Activities</span>
-<p style="font-family: Arial, sans-serif;">- [S1] Graduate Chaperone to guide a team of 14 undergraduate female students to the <a href="https://ghc.anitab.org/" target="_blank" style=" color: #35705D; text-decoration: none;">Grace Hopper Celebration of Women in Computing (GHC)</a>, Philadelphia, PA, USA, 2024.</p>
-<p style="font-family: Arial, sans-serif;">- [A1] <a href="https://capwic.org/" target="_blank" style="color: #35705D; text-decoration: none;">Capital Women in Computing (CAPWIC)</a> conference, VA, USA, 2024.</p>
+<p style="font-family: Arial, sans-serif;">- [S1]: Graduate Chaperone to guide a team of 14 undergraduate female students to the Grace Hopper Celebration of Women in Computing (<a href="https://ghc.anitab.org/" target="_blank" style=" color: #35705D; text-decoration: none;">GHC</a>), Philadelphia, PA, USA, 2024.</p>
+<p style="font-family: Arial, sans-serif;">- [A1]: TribeCTF – W&M’s first Capture-the-Flag (<a href="https://tribectf.cs.wm.edu/" target="_blank" style="color: #35705D; text-decoration: none;">CTF</a>), Williamsburg, VA, USA.</p>
+<p style="font-family: Arial, sans-serif;">- [A2] Capital Women in Computing (<a href="https://capwic.org/" target="_blank" style="color: #35705D; text-decoration: none;">CAPWIC</a>) conference, VA, USA, 2024.</p>
 
 
 

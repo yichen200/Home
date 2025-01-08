@@ -230,17 +230,17 @@ redirect_from:
 
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">💻 Internships </span>
   <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 12px;">
-        <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 1.1em;">
+        <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 14px;">
             <span>
                 2024.07 - 2024.08, 
                 <a href="https://www.thecarlab.org/" target="_blank" style="color: #35705D; text-decoration: underline;">The CAR Lab</a>, Newark, DE, USA
             </span>
             <span>Research Intern | The CAR Lab</span>
         </div>
-        <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 1.1em;">
+        <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 14px;">
             <span>Mentor: <a href="https://www.weisongshi.org/" target="_blank" style="color: #35705D; text-decoration: underline;">Weisong Shi</a></span>
         </div>
-        <div style="font-style: italic; font-size: 1em;">
+        <div style="font-size: 12px;">
             <em>My role</em>: Develop a software over-the-air (OTA) update framework for heterogeneous software-defined vehicles (SDVs), leveraging a robotic vehicle and an industry-grade roadside unit (RSU) for efficient deployment and management.
         </div>
     </div>
@@ -248,18 +248,18 @@ redirect_from:
 
 
   <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 12px;">
-        <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 1.1em;">
+        <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 14px;">
             <span>
                 2022.06 - 2022.11, 
               <a href="https://www.bayer.com.cn/en/" target="_blank" style="color: #35705D; text-decoration: underline;">Bayer Consumer Health</a>, SH, CN
             </span>
             <span>Algorithm Engineer Intern | Digital Transformation & IT Department</span>
         </div>
-        <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 1.1em;">
+        <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 14px">
             <span>Manager: <a href="fisher.jia@bayer.com" target="_blank" style="color: #35705D; text-decoration: underline;">Fisher Jia</a></span>
         </div>
-        <div style="font-style: italic; font-size: 1em;">
-          <em>My role</em>:
+        <div style="font-size: 12px;">
+          <em>My role</em>:<br>
           <li> 
             Analyze e-commerce market share, applying basic methods to study various Chinese e-commerce brands. Collect data through a crawler, perform data analysis, and discuss findings with the Department of Marketing.
           </li>

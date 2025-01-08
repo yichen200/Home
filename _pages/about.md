@@ -336,16 +336,18 @@ redirect_from:
 <br>
 <span class='anchor' id='honors-awards'></span>
 <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">🎖 Honors and Awards</span>
-
-<p style="font-family: Arial, sans-serif;">- Dec 2024: NSF ACM/IEEE Symposium on Edge Computing (SEC) Student Travel Grant.</p>
-<p style="font-family: Arial, sans-serif;">- Oct 2024: International Student Opportunity Scholarship at William & Mary.</p>
-<p style="font-family: Arial, sans-serif;">- July 2024: Research Assistant Fellowship, Vehicle Computing Lab.</p>
-<p style="font-family: Arial, sans-serif;">- May 2024: NSF IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST) Student Travel Grant Award.</p>
-<p style="font-family: Arial, sans-serif;">- 2019 - 2023: Academic Excellence Scholarship, Shanghai Dianji Univ., Top 1%.</p>
-<p style="font-family: Arial, sans-serif;">- July 2023: Big Model Innovation and Creative Applications Competition, Top 1%.</p>
-<p style="font-family: Arial, sans-serif;">- May 2022 - May 2023: Research Leader in Shanghai 2022 College Student Innovation Competition.</p>
-<p style="font-family: Arial, sans-serif;">- 2021: “MathorCup” National Mathematical Modeling Challenge for undergraduate.</p>
-<p style="font-family: Arial, sans-serif;">- May 2020 - May 2021: Research member in Shanghai 2020 College Student Innovation Competition.</p>
+<ul style="font-family: Arial, sans-serif;">
+  <li>Dec 2024: NSF ACM/IEEE Symposium on Edge Computing (SEC) Student Travel Grant.</li>
+  <li>Oct 2024: International Student Opportunity Scholarship at William & Mary.</li>
+  <li>July 2024: Research Assistant Fellowship, Vehicle Computing Lab.</li>
+  <li>May 2024: NSF IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST) Student Travel Grant Award.</li>
+  <div><hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;"></div>
+  
+  <li>2019 - 2023: Academic Excellence Scholarship, Shanghai Dianji Univ., Top 1%.</li>
+  <li>July 2023: Big Model Innovation and Creative Applications Competition, Top 1%.</li>
+  <li>May 2022 - May 2023: Research Leader in Shanghai 2022 College Student Innovation Competition.</li>
+  <li>2021: “MathorCup” National Mathematical Modeling Challenge for undergraduate.</li>
+  <li>May 2020 - May 2021: Research member in Shanghai 2020 College Student Innovation Competition.</li>
 <div><hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;"></div>
 
 

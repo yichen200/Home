@@ -331,6 +331,7 @@ redirect_from:
 <ul style="font-family: Arial, sans-serif;">
   <li>TribeCTF – W&M’s first Capture-the-Flag (<a href="https://tribectf.cs.wm.edu/" target="_blank" style="color: #35705D; text-decoration: none;">CTF</a>), Williamsburg, VA, USA.</li>
   <li>Capital Women in Computing (<a href="https://capwic.org/" target="_blank" style="color: #35705D; text-decoration: none;">CAPWIC</a>) conference, VA, USA, 2024.</li>
+</ul>
 <div><hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;"></div>
 
 <br>
@@ -348,6 +349,7 @@ redirect_from:
   <li>May 2022 - May 2023: Research Leader in Shanghai 2022 College Student Innovation Competition.</li>
   <li>2021: “MathorCup” National Mathematical Modeling Challenge for undergraduate.</li>
   <li>May 2020 - May 2021: Research member in Shanghai 2020 College Student Innovation Competition.</li>
+</ul>
 <div><hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;"></div>
 
 

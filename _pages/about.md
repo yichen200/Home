@@ -180,7 +180,22 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 Fall - 2023 Spring</div><img src='proj_img/plastic-sys.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<div class="paper-item"> <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-53404-1_12.pdf" style="margin-left: -5px;">Plastic runway surface damage detection system with YOLO</a> </div>
+
+<!-- Lit-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 Summar</div><img src='proj_img/Lit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<div class="paper-item"> <a href="https://kororinpas.github.io/talks/programme_3" style="margin-left: -5px;">Lit-Cite</a> </div>
+<span>Manager: <a href="https://kororinpas.github.io/" target="_blank" style="color: #35705D; text-decoration: underline;">Zekai Shen</a></span>
+<em>My role: Project Member</em>
+- Lit_Cite is an AI-driven software tool utilizing Retriever-Augmented Generation (RAG) technology to streamline the citation process for researchers.
+- Users upload a PDF to create a library of potential citations (10-20), with the software extracting key information. Highlighted sentences are matched to relevant citations using a word vector algorithm, which are then automatically added.
+- The program won a Third Prize in China's First National Large Language Model Innovation and Creative Application Competition. <a href="https://kororinpas.github.io/awards/award-1/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">🏆 [Award] </a>
+</div>
+</div>
+
+
+<div class="paper-item"> <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-53404-1_12.pdf" style="margin-left: -5px;">Plastic Runway Surface Damage Detection System</a> </div>
 <em>Team: Shuaidi Shan, Xinlei Wang, Yichen Luo</em><br>
 <em>My role: Project Leader</em>
 - Utilize Raspberry Pi 3B+ and a vehicle-mounted video camera for collecting picture information; also employ Wi-Fi, TCP Protocol, and Secure Shell (SSH) for communication between the upper computer and the lower computer.
@@ -194,7 +209,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020 Fall - 2021 Spring</div><img src='proj_img/Greenhouse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<div class="paper-item"> <a href="#" style="margin-left: -5px;">IoT technology in agriculture: designing an intelligent greenhouse</a> </div>
+<div class="paper-item"> <a href="#" style="margin-left: -5px;">IoT Technology in Agriculture: Designing an Intelligent Greenhouse</a> </div>
 <em>Team: Maoxuan Yao, Yichen Luo</em>
 - Utilizing LoRa (Long Range) technology for wireless communication between sensors ensures lower power consumption. Development with TPYboardv102 includes configuring vital parameters such as temperature, moisture, and illumination intensity to enable real-time monitoring and transmission in the greenhouse.
 - Collaborating on the greenhouse model involves setting up various equipment for performance testing in labs. Conducting field surveys of nearby farms provides inspiration for designing a more intelligent and energy-efficient system.
@@ -212,7 +227,7 @@ redirect_from:
       <div class="label" style="color: #fff; font-size: 12px; margin-bottom: 10px; background-color: #165740; padding: 5px 10px; display: inline-block;">Greenhouse</div>
       <img src="proj_img/GreenHouse.gif" alt="GIF 1">
       <div>
-        <p style="position: relative; top: 5px; font-size: 16px;">Laboratory Environment</p>
+        <p style="position: relative; top: 5px; font-size: 12px;">Laboratory Environment</p>
       </div> 
     </div>
     <div class="gif-item">

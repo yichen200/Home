@@ -232,27 +232,47 @@ redirect_from:
   <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 14px;">
         <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 1.1em;">
             <span>
-                2022.06 - 2022.11, 
+                2024.07 - 2024.08, 
                 <a href="https://www.thecarlab.org/" target="_blank" style="color: #35705D; text-decoration: underline;">The CAR Lab</a>, Newark, DE, USA
             </span>
-            <span>Research Intern</span>
+            <span>Research Intern | The CAR Lab</span>
         </div>
         <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 1.1em;">
             <span>Mentor: <a href="https://www.weisongshi.org/" target="_blank" style="color: #35705D; text-decoration: underline;">Weisong Shi</a></span>
         </div>
         <div style="font-style: italic; font-size: 1em;">
-            <strong>My role</strong>: Develop a software over-the-air (OTA) update framework for heterogeneous software-defined vehicles (SDVs), leveraging a robotic vehicle and an industry-grade roadside unit (RSU) for efficient deployment and management.
+            <em>My role</em>: Develop a software over-the-air (OTA) update framework for heterogeneous software-defined vehicles (SDVs), leveraging a robotic vehicle and an industry-grade roadside unit (RSU) for efficient deployment and management.
         </div>
     </div>
 
 
-**2022.06 - 2022.11, <a href="https://www.thecarlab.org/" target="_blank" style="color: #35705D; text-decoration: underline;">The CAR Lab</a>, Newark, DE, USA** <br>
-Research Intern | The CAR Lab <br>
-Mentor: <a href="https://www.weisongshi.org/" target="_blank" style="color: #35705D; text-decoration: underline;">Weisong Shi</a>
-<em>My role</em>: Develop a software over-the-air (OTA) update framework for heterogeneous software-defined vehicles (SDVs), leveraging a robotic vehicle and an industry-grade roadside unit (RSU) for efficient deployment and management.
-
 
  <br>
+  <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 14px;">
+        <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 1.1em;">
+            <span>
+                2022.06 - 2022.11, 
+              <a href="https://www.bayer.com.cn/en/" target="_blank" style="color: #35705D; text-decoration: underline;">Bayer Consumer Health</a>, Shanghai, China
+            </span>
+            <span>Algorithm Engineer Intern | Digital Transformation and IT Department</span>
+        </div>
+        <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 1.1em;">
+            <span>Manager: <a href="fisher.jia@bayer.com" target="_blank" style="color: #35705D; text-decoration: underline;">Fisher Jia</a></span>
+        </div>
+        <div style="font-style: italic; font-size: 1em;">
+          <em>My role</em>:
+          <li> 
+            Analyze e-commerce market share, applying basic methods to study various Chinese e-commerce brands. Collect data through a crawler, perform data analysis, and discuss findings with the Department of Marketing.
+          </li>
+          <li>
+            Investigate the root causes of failures in an OCR technology designed for small ticket image recognition. Serve as the project manager to improve and test the system's design.
+          </li>
+          Support the company's training department by: i) Designing a survey system, including creating survey questionnaires, web pages, QR codes, and conducting final testing; ii) Using the Python pandas package to clean survey data collected by colleagues; iii) Providing technical support for live broadcasts, such as testing the live video environment in the initial stages and monitoring the live broadcast. Additionally, prepare a final technical report.
+          <li>
+        </div>
+    </div>
+
+ 
 **2022.06 - 2022.11, <a href="https://www.bayer.com.cn/en/" target="_blank" style="color: #35705D; text-decoration: underline;">Bayer Consumer Health</a>, Shanghai, China**<br>
 Algorithm Engineer Intern | Digital Transformation and IT Department
 Manager: <a href="fisher.jia@bayer.com" target="_blank" style="color: #35705D; text-decoration: underline;">Fisher Jia</a> <br>

@@ -310,8 +310,11 @@ redirect_from:
     </div>
 <div><hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;"></div>
 
+
+
+
 <br>
-<span class='anchor' id='service'></span>
+<span class='anchor' id='services-activities'></span>
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">💬 Services & Activities</span>
 
 # <span style="font-size: 22px;">Community and Journal Reviewers</span>

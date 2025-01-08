@@ -319,7 +319,8 @@ redirect_from:
 
 # <span style="font-size: 20px;">Community and Journal Reviewers</span>
 <ul style="font-family: Arial, sans-serif;">
-  <li>The 33rd International Conference on Computer Communications and Networks (ICCCN 2024)</a></li>
+  <li>The 33rd International Conference on Computer Communications and Networks (ICCCN 2024)</li>
+  <li>IEEE Transactions on Intelligent Transportation Systems (T-ITS)</li>
 </ul>
 
 # <span style="font-size: 20px;">University Service</span>

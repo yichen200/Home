@@ -274,24 +274,49 @@ redirect_from:
         </div>
         <div style="font-size: 14px;">
           <em>My role</em>:<br>
+            <li> 
+              Analyze e-commerce market share, applying basic methods to study various Chinese e-commerce brands. Collect data through a crawler, perform data analysis, and discuss findings with the Department of Marketing.
+            </li>
+            <li>
+              Investigate the root causes of failures in an OCR technology designed for small ticket image recognition. Serve as the project manager to improve and test the system's design.
+            </li>
+            <li>
+               Support the company's training department by: i) Designing a survey system, including creating survey questionnaires, web pages, QR codes, and conducting final testing; ii) Using the Python pandas package to clean survey data collected by colleagues; iii) Providing technical support for live broadcasts, such as testing the live video environment in the initial stages and monitoring the live broadcast. Additionally, prepare a final technical report.
+            </li>
+        </div>
+    </div>
+<div><hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;"></div>
+
+
+  <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 12px;">
+        <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 16px;">
+            <span>
+                2022.06 - 2022.11, 
+              <a href="https://www.iquanzhan.com/about.html" target="_blank" style="color: #35705D; text-decoration: underline;">Fullstack Intelligence Co., Ltd</a>, SH, CN
+            </span>     
+            <span>Engineer | Smart City Infrastructure Solution </span>
+        </div>
+        <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 16px">
+            <span>Manager: <a href="fahedxy@gmail.com" target="_blank" style="color: #35705D; text-decoration: underline;">Hao Chen</a></span><br>
+        </div>
+        <div style="font-size: 14px;">
+          <em>Goal</em>: The system enables real-time video collection and analysis of vehicles on the road, providing accurate and timely insights into traffic conditions.
+          <em>My role</em>:<br>
           <li> 
-            Analyze e-commerce market share, applying basic methods to study various Chinese e-commerce brands. Collect data through a crawler, perform data analysis, and discuss findings with the Department of Marketing.
+            Real-time video monitoring from buses and taxis facilitates traffic road inspections through the integration of accessed video data.
           </li>
           <li>
-            Investigate the root causes of failures in an OCR technology designed for small ticket image recognition. Serve as the project manager to improve and test the system's design.
+            AI-powered vision systems detect road issues, generate problem reports, and automatically notify responsible units for resolution.
           </li>
           <li>
-             Support the company's training department by: i) Designing a survey system, including creating survey questionnaires, web pages, QR codes, and conducting final testing; ii) Using the Python pandas package to clean survey data collected by colleagues; iii) Providing technical support for live broadcasts, such as testing the live video environment in the initial stages and monitoring the live broadcast. Additionally, prepare a final technical report.
+             The PDCA closed-loop inspection framework enhances highway administration and ensures road safety and efficiency.
           </li>
         </div>
     </div>
+<div><hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;"></div>
 
 
-
-
-
-
-
+<br>
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

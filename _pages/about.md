@@ -291,7 +291,7 @@ redirect_from:
   <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 12px;">
         <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; font-size: 16px;">
             <span>
-                2022.06 - 2022.11, 
+                2021.06 - 2022.08, 
               <a href="https://www.iquanzhan.com/about.html" target="_blank" style="color: #35705D; text-decoration: underline;">Fullstack Intelligence Co., Ltd</a>, SH, CN
             </span>     
             <span>Algorithm Engineer | Smart City Infrastructure Solution </span>

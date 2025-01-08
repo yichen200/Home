@@ -11,8 +11,8 @@
   @include clearfix;
   margin-top: 0;
   margin-bottom: 0;
-  padding-left: 2em;
-  padding-right: 2em;
+  padding-left: 4em;
+  padding-right: 4em;
   font-family: $sans-serif;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -59,8 +59,8 @@
 .pagination {
   @include full();
   @include clearfix();
-  margin-top: 1em;
-  padding-top: 1em;
+  margin-top: 2em;
+  padding-top: 2em;
 
   ul {
     margin: 0;
@@ -83,7 +83,7 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
+      color: mix(#35705D, $gray, 25%);
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -97,7 +97,7 @@
       }
 
       &.disabled {
-        color: mix(#fff, $gray, 75%);
+        color: mix(#35705D, $gray, 75%);
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -151,7 +151,7 @@
     }
 
     &.disabled {
-      color: mix(#fff, $gray, 75%);
+      color: mix(#35705D, $gray, 75%);
       pointer-events: none;
       cursor: not-allowed;
     }

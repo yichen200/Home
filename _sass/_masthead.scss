@@ -55,6 +55,10 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  font-family: Arial, sans-serif; /* 设置字体为 Arial */
+  font-size: 14px; /* 设置字体大小为 14px */
+  color: #35705D; /* 设置字体颜色为 #35705D */
+}
 
   &--lg {
     padding-right: 2em;

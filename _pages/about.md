@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='short-bio'></span>
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">⭐ Short Bio</span>
 <p style="font-family: Arial, sans-serif;">
     Hello! I am Yichen Luo, a Ph.D. student in Computer Science at 
@@ -31,6 +31,7 @@ redirect_from:
 
 
 <br>
+<span class='anchor' id='news'></span>
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">🔥 News</span>
 <p style="font-family: Arial, sans-serif;">- 2024: NSF ACM/IEEE Symposium on Edge Computing (SEC) Student Travel Grant. &nbsp;🎉 </p>
 <p style="font-family: Arial, sans-serif;">- 2024: International Student Opportunity Scholarship at William & Mary. &nbsp;🎉</p>

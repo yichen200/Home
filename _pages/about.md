@@ -183,27 +183,28 @@ redirect_from:
     <!-- image and Description -->
     <div class="gif-item" style="flex: 1; text-align: center;">
       <div class="label" style="color: #fff; font-size: 12px; margin-bottom: 10px; background-color: #165740; padding: 5px 10px; display: inline-block;">Simulation</div>
-      <img src="proj_img/CARLA_manu.gif" alt="GIF 1" style="max-width: 100%; height: auto;">
+      <img src="proj_img/CARLA_manu.gif" alt="GIF 1" style="width: auto; height: 200px; object-fit: cover;">
       <div>
         <p style="margin-top: 5px; font-size: 12px;">Manual control in CARLA.</p>
       </div> 
     </div>
     <div class="gif-item" style="flex: 1; text-align: center;">
       <div class="label" style="color: #fff; font-size: 12px; margin-bottom: 10px; background-color: #165740; padding: 5px 10px; display: inline-block;">Robotic Vehicle</div>
-      <img src="proj_img/ROS_Vehicle.gif" alt="GIF 2" style="max-width: 100%; height: auto;">
+      <img src="proj_img/ROS_Vehicle.gif" alt="GIF 2" style="width: auto; height: 200px; object-fit: cover;">
       <div>
         <p style="margin-top: 5px; font-size: 12px;">Robotic vehicle on the track map.</p>
       </div>
     </div>
     <div class="gif-item" style="flex: 1; text-align: center;">
       <div class="label" style="color: #fff; font-size: 12px; margin-bottom: 10px; background-color: #165740; padding: 5px 10px; display: inline-block;">Robotic Vehicle</div>
-      <img src="proj_img/robot_detect.gif" alt="GIF 3" style="max-width: 100%; height: auto;">
+      <img src="proj_img/robot_detect.gif" alt="GIF 3" style="width: auto; height: 200px; object-fit: cover;">
       <div>
         <p style="margin-top: 5px; font-size: 12px;">Visual data captured by the robotic vehicle。</p>
       </div>
     </div>
   </div>
 </div>
+
 
 
 <h2 style="font-size: 24px; font-family: Arial, sans-serif;">🌱 Undergraduate Journey</h2>

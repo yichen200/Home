@@ -84,37 +84,14 @@ redirect_from:
       <a href="https://ieee-iotj.org/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Conference]</a>
     </p>
     <!-- Abstract content -->
-    <p id="abstract" style="display: none; margin-left: 6px; font-family: Arial, sans-serif; font-size: 14px; font-weight: normal;">
+    <div id="abstract-raindrop" style="display: none; margin-top: 10px; font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; border-left: 4px solid #165740; padding-left: 10px;">
       With the growing demand for software-defined vehicles (SDVs), deep learning-based perception models have become increasingly important in intelligent transportation systems. However, these models face significant challenges in enabling real-time and efficient SDV solutions due to their substantial computational requirements, which are often unavailable in resource-constrained vehicles. As a result, these models typically suffer from low throughput, high latency, and excessive GPU/memory usage, making them impractical for real-time SDV applications. To address these challenges, our research focuses on optimizing model and workflow performance through the integration of pruning and quantization techniques across various computational environments, utilizing frameworks such as PyTorch, ONNX, ONNX Runtime, and TensorRT. We systematically explore and evaluate three distinct pruning methods in combination with multi-precision quantization workflows (FP32, FP16, and INT8) and present the results based on four evaluation metrics: inference throughput, latency, GPU/memory usage, and accuracy. Our designed techniques, including pruning and quantization, along with optimized workflows, can achieve up to 18$\times$ faster inference speed and 16.5$\times$ higher throughput, while reducing GPU/memory usage by up to 30%, all with minimal impact on accuracy. Our work suggests using the Torch-ONNX-TensorRT workflow quantized with FP16 precision and group pruning as the optimal strategy for maximizing inference performance. It demonstrates great potential in optimizing real-time, efficient perception workflows in SDVs, contributing to the enhanced application of deep learning models in resource-constrained environments.
-    </p>
+    </div>
   </div>
 </div>
 
 <script>
-  function toggleAbstract() {
-    var abstract = document.getElementById("abstract");
-    if (abstract.style.display === "none") {
-      abstract.style.display = "block";
-    } else {
-      abstract.style.display = "none";
-    }
-  }
 
-  // Add global click event listener to hide the abstract when clicking elsewhere
-  document.addEventListener("click", function(event) {
-    var abstract = document.getElementById("abstract");
-    var button = document.getElementById("abstract-button");
-
-    // Check if the click is outside the abstract content and the button
-    if (
-      abstract.style.display === "block" &&
-      !abstract.contains(event.target) &&
-      !button.contains(event.target)
-    ) {
-      abstract.style.display = "none";
-    }
-  });
-</script>
   
 <!-- MOST-raindrop -->
 <div class="paper-item">

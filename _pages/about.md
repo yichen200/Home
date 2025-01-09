@@ -90,7 +90,6 @@ redirect_from:
   </div>
 </div>
 
-<script>
 
   
 <!-- MOST-raindrop -->

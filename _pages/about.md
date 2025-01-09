@@ -62,20 +62,41 @@ redirect_from:
         </p>
       </div>
   </div>
-  <!-- IOTJ-realtime -->
-  <div class="paper-item">
-    <div class="date"> <h5></h5></div>
-      <div class="pap">
-        <a href="./pdf/IOTJ_24_Towards_Real-Time.pdf">Towards Real-Time and Efficient Perception Workflows in Software-Defined Vehicles</a> <br>
-        <p style="margin-left: 6px; font-family: Arial, sans-serif; font-size: 16px; font-weight: normal;">
-          Sumaiya, Reza Jafarpourmarzouni, <b>Yichen Luo</b>, Sidi Lu, and Zheng Dong.<br>
-          IEEE Internet of Things Journal. </p>
-        <p style="margin-left: 4px; font-weight: normal; margin-top: -5px;">
-          <a href="./pdf/IOTJ_24_Towards_Real-Time.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[PDF] </a>
-          <a href="https://ieee-iotj.org/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;"> [Conference]</a> 
-        </p>
-      </div>
+<!-- IOTJ-realtime -->
+<div class="paper-item">
+  <div class="date"> 
+    <h5></h5>
   </div>
+  <div class="pap">
+    <a href="./pdf/IOTJ_24_Towards_Real-Time.pdf">Towards Real-Time and Efficient Perception Workflows in Software-Defined Vehicles</a> <br>
+    <p style="margin-left: 6px; font-family: Arial, sans-serif; font-size: 16px; font-weight: normal;">
+      Sumaiya, Reza Jafarpourmarzouni, <b>Yichen Luo</b>, Sidi Lu, and Zheng Dong.<br>
+      IEEE Internet of Things Journal.
+    </p>
+    <p style="margin-left: 4px; font-weight: normal; margin-top: -5px;">
+      <!-- Abstract toggle button -->
+      <a href="#" onclick="toggleAbstract(); return false;" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px; cursor: pointer;">[Abstract]</a>
+      <a href="./pdf/IOTJ_24_Towards_Real-Time.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[PDF]</a>
+      <a href="https://ieee-iotj.org/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Conference]</a>
+    </p>
+    <!-- Abstract content -->
+    <p id="abstract" style="display: none; margin-left: 6px; font-family: Arial, sans-serif; font-size: 14px; font-weight: normal;">
+      With the growing demand for software-defined vehicles (SDVs), deep learning-based perception models have become increasingly important in intelligent transportation systems. However, these models face significant challenges in enabling real-time and efficient SDV solutions due to their substantial computational requirements, which are often unavailable in resource-constrained vehicles. As a result, these models typically suffer from low throughput, high latency, and excessive GPU/memory usage, making them impractical for real-time SDV applications.<br>
+To address these challenges, our research focuses on optimizing model and workflow performance through the integration of pruning and quantization techniques across various computational environments, utilizing frameworks such as PyTorch, ONNX, ONNX Runtime, and TensorRT. We systematically explore and evaluate three distinct pruning methods in combination with multi-precision quantization workflows (FP32, FP16, and INT8) and present the results based on four evaluation metrics: inference throughput, latency, GPU/memory usage, and accuracy. Our designed techniques, including pruning and quantization, along with optimized workflows, can achieve up to 18$\times$ faster inference speed and 16.5$\times$ higher throughput, while reducing GPU/memory usage by up to 30\%, all with minimal impact on accuracy. Our work suggests using the Torch-ONNX-TensorRT workflow quantized with FP16 precision and group pruning as the optimal strategy for maximizing inference performance. It demonstrates great potential in optimizing real-time, efficient perception workflows in SDVs, contributing to the enhanced application of deep learning models in resource-constrained environments.
+    </p>
+  </div>
+</div>
+
+<script>
+  function toggleAbstract() {
+    var abstract = document.getElementById("abstract");
+    if (abstract.style.display === "none") {
+      abstract.style.display = "block";
+    } else {
+      abstract.style.display = "none";
+    }
+  }
+</script>
   
   <!-- MOST-raindrop -->
   <div class="paper-item">

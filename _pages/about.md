@@ -190,10 +190,19 @@ redirect_from:
     </div>
     <div class="gif-item">
       <div class="label" style="color: #fff; font-size: 12px; margin-bottom: 10px; background-color: #165740; padding: 5px 10px; display: inline-block;">Robotic Vehicle</div>
-      <img src="proj_img/vehicle_testbed.gif" alt="GIF 2">
+      <img src="proj_img/ROS_Vehicle.gif" alt="GIF 2">
       <div>
         <p style="position: relative; top: 5px; font-size: 12px;">
         Robotic vehicle on the track map.
+        </p>
+      </div>
+    </div>
+    <div class="gif-item">
+      <div class="label" style="color: #fff; font-size: 12px; margin-bottom: 10px; background-color: #165740; padding: 5px 10px; display: inline-block;">Robotic Vehicle</div>
+      <img src="proj_img/vehicle_detect.gif" alt="GIF 2">
+      <div>
+        <p style="position: relative; top: 5px; font-size: 12px;">
+        Visual data captured by the robotic vehicle。
         </p>
       </div>
     </div>

@@ -49,35 +49,79 @@ redirect_from:
 <div class="paper-list"> 
    <!-- 2024-->
   <div class="paper-item">
-    <!-- Data -->
-      <div class="date"> <h5>2024</h5></div>
-      <!-- SEC_VEC -->
-      <div class="pap">
-        <a href="./pdf/SEC24-VEC.pdf">An Efficient Data Transmission Framework for Connected Vehicles</a> <br>
-        <p style="margin-left: 6px; font-family: Arial, sans-serif; font-size: 16px; font-weight: normal;">
-          <b>Yichen Luo</b>, Yongtao Yao, Junzhou Chen, Sidi Lu, and Weisong Shi.<br>
-          The 9th ACM/IEEE Symposium on Edge Computing (SEC), Rome, Italy.</p>
-        <p style="margin-left: 4px; font-weight: normal; margin-top: -5px;">
-          <!-- Abstract toggle button -->
-          <a href="#" onclick="toggleAbstract(); return false;" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px; cursor: pointer;">[Abstract]</a>
-          <a href="./pdf/SEC24-VEC.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[PDF] </a>
-          <a href="https://drive.google.com/file/d/17voEyOaxGxl2kotKK8oH6yGPm6_HoXTP/view?usp=sharing" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Video] </a>
-          <a href="https://drive.google.com/file/d/1aquo75jCKTwzXN7moM1T5BfhhcfT3Kh_/view?usp=sharing" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Poster] </a>
-          <a href="https://acm-ieee-sec.org/2024/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Conference] </a> 
-        </p>
-        <!-- Abstract content -->
-        <div id="abstract-raindrop" style="display: none; margin-top: 10px; font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; border-left: 4px solid #165740; padding-left: 10px;">
-      Connected vehicles (CVs) face significant challenges in continuous big data transmission, resulting in high transmission bandwidth costs and impacting real-time decision-making. To address this, we propose two dynamic, driving-aware compression mechanisms based on reinforcement learning and temporal compressive sensing to intelligently compress video data. These mechanisms adapt to driving conditions, reducing bandwidth while preserving sufficient information for accurate applications such as object detection and ensuring high-quality reconstruction when needed. We also implement a Vehicle-EdgeServer-Cloud (VEC) closed-loop framework that integrates these mechanisms. Specifically, a lightweight vehicle model performs real-time detection on compressed data (measurements), while the EdgeServer receives measurements and reconstructs scenes if needed. The measurements, reconstructed video, and analysis results are then sent to the cloud for vehicle model updates. Unlike conventional methods, our framework seamlessly adapts across vehicles, EdgeServers, and the cloud, supporting efficient data transmission and dynamic model updates. Extensive evaluations were conducted on our designed roadside unit platform and robotic vehicle, both equipped with industry-grade sensors and computing units. The results demonstrate an 18$\times$ reduction in bandwidth at 320KB/s while maintaining high detection accuracy and reconstruction quality compared to non-adaptive measurements, highlighting the framework's promising real-world applications for CVs.
-        </div>
+    <!-- Date -->
+    <div class="date"> 
+      <h5>2024</h5>
+    </div>
+    <!-- Paper details -->
+    <div class="pap">
+      <a href="./pdf/SEC24-VEC.pdf">An Efficient Data Transmission Framework for Connected Vehicles</a> <br>
+      <p style="margin-left: 6px; font-family: Arial, sans-serif; font-size: 16px; font-weight: normal;">
+        <b>Yichen Luo</b>, Yongtao Yao, Junzhou Chen, Sidi Lu, and Weisong Shi.<br>
+        The 9th ACM/IEEE Symposium on Edge Computing (SEC), Rome, Italy.
+      </p>
+      <p style="margin-left: 4px; font-weight: normal; margin-top: -5px;">
+        <!-- Abstract toggle button -->
+        <a href="#" id="abstract-button-sec24" onclick="toggleAbstract('abstract-sec24'); return false;" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px; cursor: pointer;">[Abstract]</a>
+        <a href="./pdf/SEC24-VEC.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[PDF] </a>
+        <a href="https://drive.google.com/file/d/17voEyOaxGxl2kotKK8oH6yGPm6_HoXTP/view?usp=sharing" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Video] </a>
+        <a href="https://drive.google.com/file/d/1aquo75jCKTwzXN7moM1T5BfhhcfT3Kh_/view?usp=sharing" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Poster] </a>
+        <a href="https://acm-ieee-sec.org/2024/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Conference] </a> 
+      </p>
+      <!-- Abstract content (hidden by default) -->
+      <div id="abstract-sec24" style="display: none; margin-top: 10px; font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; border-left: 4px solid #165740; padding-left: 10px;">
+        Connected vehicles (CVs) face significant challenges in continuous big data transmission, resulting in high transmission bandwidth costs and impacting real-time decision-making. To address this, we propose two dynamic, driving-aware compression mechanisms based on reinforcement learning and temporal compressive sensing to intelligently compress video data. These mechanisms adapt to driving conditions, reducing bandwidth while preserving sufficient information for accurate applications such as object detection and ensuring high-quality reconstruction when needed. We also implement a Vehicle-EdgeServer-Cloud (VEC) closed-loop framework that integrates these mechanisms. Specifically, a lightweight vehicle model performs real-time detection on compressed data (measurements), while the EdgeServer receives measurements and reconstructs scenes if needed. The measurements, reconstructed video, and analysis results are then sent to the cloud for vehicle model updates. Unlike conventional methods, our framework seamlessly adapts across vehicles, EdgeServers, and the cloud, supporting efficient data transmission and dynamic model updates. Extensive evaluations were conducted on our designed roadside unit platform and robotic vehicle, both equipped with industry-grade sensors and computing units. The results demonstrate an 18× reduction in bandwidth at 320KB/s while maintaining high detection accuracy and reconstruction quality compared to non-adaptive measurements, highlighting the framework's promising real-world applications for CVs.
       </div>
+    </div>
   </div>
+</div>
+
+<script>
+  // Function to toggle abstract visibility
+  function toggleAbstract(id) {
+    var abstract = document.getElementById(id);
+    if (abstract.style.display === "none") {
+      abstract.style.display = "block";
+    } else {
+      abstract.style.display = "none";
+    }
+  }
+
+  // Global click listener to hide abstract if clicked outside
+  document.addEventListener("click", function (event) {
+    // Abstract elements and their corresponding buttons
+    var abstract = document.getElementById("abstract-sec24");
+    var button = document.getElementById("abstract-button-sec24");
+
+    // Check if the click is outside both the abstract and the button
+    if (
+      abstract.style.display === "block" &&
+      !abstract.contains(event.target) &&
+      !button.contains(event.target)
+    ) {
+      abstract.style.display = "none";
+    }
+  });
+
+  // Prevent click event on button from propagating to the document
+  document.getElementById("abstract-button-sec24").addEventListener("click", function (event) {
+    event.stopPropagation(); // Prevents event bubbling
+  });
+
+  // Prevent click event on abstract content from propagating to the document
+  document.getElementById("abstract-sec24").addEventListener("click", function (event) {
+    event.stopPropagation(); // Prevents event bubbling
+  });
+</script>
+
   
 <!-- IOTJ-realtime -->
 <div class="paper-item">
-  <div class="date"> 
+  <div class="date">
     <h5></h5>
   </div>
   <div class="pap">
+    <!-- Paper title -->
     <a href="./pdf/IOTJ_24_Towards_Real-Time.pdf">Towards Real-Time and Efficient Perception Workflows in Software-Defined Vehicles</a> <br>
     <p style="margin-left: 6px; font-family: Arial, sans-serif; font-size: 16px; font-weight: normal;">
       Sumaiya, Reza Jafarpourmarzouni, <b>Yichen Luo</b>, Sidi Lu, and Zheng Dong.<br>
@@ -85,16 +129,55 @@ redirect_from:
     </p>
     <p style="margin-left: 4px; font-weight: normal; margin-top: -5px;">
       <!-- Abstract toggle button -->
-      <a href="#" onclick="toggleAbstract(); return false;" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px; cursor: pointer;">[Abstract]</a>
+      <a href="#" id="abstract-button-iotj" onclick="toggleAbstract('abstract-iotj'); return false;" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px; cursor: pointer;">[Abstract]</a>
       <a href="./pdf/IOTJ_24_Towards_Real-Time.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[PDF]</a>
       <a href="https://ieee-iotj.org/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Conference]</a>
     </p>
-    <!-- Abstract content -->
-    <div id="abstract-raindrop" style="display: none; margin-top: 10px; font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; border-left: 4px solid #165740; padding-left: 10px;">
+    <!-- Abstract content (hidden by default) -->
+    <div id="abstract-iotj" style="display: none; margin-top: 10px; font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; border-left: 4px solid #165740; padding-left: 10px;">
       With the growing demand for software-defined vehicles (SDVs), deep learning-based perception models have become increasingly important in intelligent transportation systems. However, these models face significant challenges in enabling real-time and efficient SDV solutions due to their substantial computational requirements, which are often unavailable in resource-constrained vehicles. As a result, these models typically suffer from low throughput, high latency, and excessive GPU/memory usage, making them impractical for real-time SDV applications. To address these challenges, our research focuses on optimizing model and workflow performance through the integration of pruning and quantization techniques across various computational environments, utilizing frameworks such as PyTorch, ONNX, ONNX Runtime, and TensorRT. We systematically explore and evaluate three distinct pruning methods in combination with multi-precision quantization workflows (FP32, FP16, and INT8) and present the results based on four evaluation metrics: inference throughput, latency, GPU/memory usage, and accuracy. Our designed techniques, including pruning and quantization, along with optimized workflows, can achieve up to 18$\times$ faster inference speed and 16.5$\times$ higher throughput, while reducing GPU/memory usage by up to 30%, all with minimal impact on accuracy. Our work suggests using the Torch-ONNX-TensorRT workflow quantized with FP16 precision and group pruning as the optimal strategy for maximizing inference performance. It demonstrates great potential in optimizing real-time, efficient perception workflows in SDVs, contributing to the enhanced application of deep learning models in resource-constrained environments.
     </div>
   </div>
 </div>
+
+<script>
+  // Function to toggle abstract visibility
+  function toggleAbstract(id) {
+    var abstract = document.getElementById(id);
+    if (abstract.style.display === "none") {
+      abstract.style.display = "block";
+    } else {
+      abstract.style.display = "none";
+    }
+  }
+
+  // Global click listener to hide abstract if clicked outside
+  document.addEventListener("click", function (event) {
+    // Abstract elements and their corresponding buttons
+    var abstract = document.getElementById("abstract-iotj");
+    var button = document.getElementById("abstract-button-iotj");
+
+    // Check if the click is outside both the abstract and the button
+    if (
+      abstract.style.display === "block" &&
+      !abstract.contains(event.target) &&
+      !button.contains(event.target)
+    ) {
+      abstract.style.display = "none";
+    }
+  });
+
+  // Prevent click event on button from propagating to the document
+  document.getElementById("abstract-button-iotj").addEventListener("click", function (event) {
+    event.stopPropagation(); // Prevents event bubbling
+  });
+
+  // Prevent click event on abstract content from propagating to the document
+  document.getElementById("abstract-iotj").addEventListener("click", function (event) {
+    event.stopPropagation(); // Prevents event bubbling
+  });
+</script>
+
 
 
   

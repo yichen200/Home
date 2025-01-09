@@ -15,6 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<script src="./assets/js/abstract-toggle.js"></script>
+
+
 <span class='anchor' id='about-me'></span>
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">⭐ Short Bio</span>
 <p style="font-family: Arial, sans-serif;">
@@ -127,55 +130,19 @@ redirect_from:
     </p>
     <p style="margin-left: 4px; font-weight: normal; margin-top: -5px;">
       <!-- Abstract toggle button -->
-      <a href="#" id="abstract-button-raindrop" onclick="toggleAbstract('abstract-raindrop'); return false;" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px; cursor: pointer;">[Abstract]</a>
+      <a href="#" id="abstract-button-raindrop" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px; cursor: pointer;">[Abstract]</a>
       <a href="./pdf/MOST24-Raindrop.pdf" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[PDF]</a>
       <a href="https://drive.google.com/file/d/1yBGxDYc8-d9_UiVdmmfR_kt42lkxN1K6/view?usp=sharing" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Poster]</a>
       <a href="https://ieeemobility.org/MOST2024/" target="_blank" style="text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">[Conference]</a>
     </p>
     <!-- Abstract content (hidden by default) -->
     <div id="abstract-raindrop" style="display: none; margin-top: 10px; font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; border-left: 4px solid #165740; padding-left: 10px;">
-Raindrops adhering to windshields or camera lenses substantially impair visibility, leading to significant camera-based detection challenges for software-defined vehicles in both daytime and nighttime conditions. Addressing the impact of raindrops is thus crucial. This work begins by classifying four prevalent types of raindrops within the BDD100K dataset, identifying microsphere raindrops as particularly impactful in rainy conditions. We then conduct a quantitative analysis focusing on the density and diameter of raindrops, underscoring the pronounced impacts of small-density raindrops on detection performance. To mitigate raindrop interference, we introduce and assess the SR3 model for raindrop removal, applying it to both synthetic raindrop-degraded data and real-world rainy data. Besides, we propose YOLO-RA, a novel and fast model to resolve the issues of missing small-size objects and erroneous detections in irrelevant regions. Next, a novel pipeline that combines SR3 with YOLO-RA markedly improves accuracy and processing speed. Finally, we discuss our experimental observations extensively and offer detailed explanations, contributing to understanding SDVs' operational effectiveness in adverse weather conditions.
+      Raindrops adhering to windshields or camera lenses substantially impair visibility, leading to significant camera-based detection challenges for software-defined vehicles in both daytime and nighttime conditions. Addressing the impact of raindrops is thus crucial. This work begins by classifying four prevalent types of raindrops within the BDD100K dataset, identifying microsphere raindrops as particularly impactful in rainy conditions. We then conduct a quantitative analysis focusing on the density and diameter of raindrops, underscoring the pronounced impacts of small-density raindrops on detection performance. To mitigate raindrop interference, we introduce and assess the SR3 model for raindrop removal, applying it to both synthetic raindrop-degraded data and real-world rainy data. Besides, we propose YOLO-RA, a novel and fast model to resolve the issues of missing small-size objects and erroneous detections in irrelevant regions. Next, a novel pipeline that combines SR3 with YOLO-RA markedly improves accuracy and processing speed. Finally, we discuss our experimental observations extensively and offer detailed explanations, contributing to understanding SDVs' operational effectiveness in adverse weather conditions.
     </div>
   </div>
 </div>
 
-<script>
-  // Function to toggle abstract visibility
-  function toggleAbstract(id) {
-    var abstract = document.getElementById(id);
-    if (abstract.style.display === "none") {
-      abstract.style.display = "block";
-    } else {
-      abstract.style.display = "none";
-    }
-  }
 
-  // Global click listener to hide abstract if clicked outside
-  document.addEventListener("click", function (event) {
-    // Abstract elements and their corresponding buttons
-    var abstract = document.getElementById("abstract-raindrop");
-    var button = document.getElementById("abstract-button-raindrop");
-
-    // Check if the click is outside both the abstract and the button
-    if (
-      abstract.style.display === "block" &&
-      !abstract.contains(event.target) &&
-      !button.contains(event.target)
-    ) {
-      abstract.style.display = "none";
-    }
-  });
-
-  // Prevent click event on button from propagating to the document
-  document.getElementById("abstract-button-raindrop").addEventListener("click", function (event) {
-    event.stopPropagation(); // Prevents event bubbling
-  });
-
-  // Prevent click event on abstract content from propagating to the document
-  document.getElementById("abstract-raindrop").addEventListener("click", function (event) {
-    event.stopPropagation(); // Prevents event bubbling
-  });
-</script>
 
   <!-- 2023-->
   <div class="paper-item">

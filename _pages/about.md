@@ -536,10 +536,11 @@ redirect_from:
 <div><hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;"></div>
 
 
+<span class='anchor' id='education'></span>
+# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">📖 Educations</span>
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-
-# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">💬 Services and Activities</span>
-# <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">🛎 Services and Activities</span>
+<ul style="font-family: Arial, sans-serif;">
+  <li>2023.09 - current, William & Mary, USA.</li>
+  <li>2019.09 - 2023.06, Shanghai Dianji University, China.</li>
+</ul>
+<div><hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;"></div>

@@ -179,31 +179,27 @@ redirect_from:
 <!-- DEMO in PhD -->
 <h2 style="font-size: 20px; font-family: Arial, sans-serif;">🎥 DEMO</h2>
 <div class="paper-box" style="position: relative; top: -20px;">
-  <div class="gif-container" style="position: relative; top: -10px;">
+  <div class="gif-container" style="position: relative; top: -10px; display: flex; justify-content: space-between; align-items: flex-start;">
     <!-- image and Description -->
-    <div class="gif-item">
+    <div class="gif-item" style="flex: 1; text-align: center;">
       <div class="label" style="color: #fff; font-size: 12px; margin-bottom: 10px; background-color: #165740; padding: 5px 10px; display: inline-block;">Simulation</div>
-      <img src="proj_img/CARLA_manu.gif" alt="GIF 1">
+      <img src="proj_img/CARLA_manu.gif" alt="GIF 1" style="max-width: 100%; height: auto;">
       <div>
-        <p style="position: relative; top: 5px; font-size: 12px;">Manual control in CARLA.</p>
+        <p style="margin-top: 5px; font-size: 12px;">Manual control in CARLA.</p>
       </div> 
     </div>
-    <div class="gif-item">
+    <div class="gif-item" style="flex: 1; text-align: center;">
       <div class="label" style="color: #fff; font-size: 12px; margin-bottom: 10px; background-color: #165740; padding: 5px 10px; display: inline-block;">Robotic Vehicle</div>
-      <img src="proj_img/ROS_Vehicle.gif" alt="GIF 2">
+      <img src="proj_img/ROS_Vehicle.gif" alt="GIF 2" style="max-width: 100%; height: auto;">
       <div>
-        <p style="position: relative; top: 5px; font-size: 12px;">
-        Robotic vehicle on the track map.
-        </p>
+        <p style="margin-top: 5px; font-size: 12px;">Robotic vehicle on the track map.</p>
       </div>
     </div>
-    <div class="gif-item">
+    <div class="gif-item" style="flex: 1; text-align: center;">
       <div class="label" style="color: #fff; font-size: 12px; margin-bottom: 10px; background-color: #165740; padding: 5px 10px; display: inline-block;">Robotic Vehicle</div>
-      <img src="proj_img/vehicle_detect.gif" alt="GIF 2">
+      <img src="proj_img/robot_detect.gif" alt="GIF 3" style="max-width: 100%; height: auto;">
       <div>
-        <p style="position: relative; top: 5px; font-size: 12px;">
-        Visual data captured by the robotic vehicle。
-        </p>
+        <p style="margin-top: 5px; font-size: 12px;">Visual data captured by the robotic vehicle。</p>
       </div>
     </div>
   </div>

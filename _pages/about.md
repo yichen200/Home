@@ -74,7 +74,7 @@ redirect_from:
       </div>
     </div>
   </div>
-</div>
+
 
 <script>
   // Function to toggle abstract visibility

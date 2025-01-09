@@ -536,7 +536,7 @@ redirect_from:
 <div><hr style="border: 0; border-top: 1px solid #dcdcdc; margin: 10px 0;"></div>
 
 
-<span class='anchor' id='education'></span>
+<span class='anchor' id='educations'></span>
 # <span style="font-weight: bold; color: #654f4fcb; font-size: 28px;">📖 Educations</span>
 
 <ul style="font-family: Arial, sans-serif;">
